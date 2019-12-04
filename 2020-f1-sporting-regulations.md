@@ -1,57 +1,59 @@
 # 2020 FORMULA ONE SPORTING REGULATIONS 
- PUBLISHED ON 30 APRIL 2019 
-**Art CONTENTS Page(s)** 1 REGULATIONS 2 2 GENERAL UNDERTAKING 2 3 GENERAL CONDITIONS 2 4 LICENCES 2 5 CHAMPIONSHIP EVENTS 2-3 6 WORLD CHAMPIONSHIP 3-4 7 DEAD HEAT 4 8 COMPETITORS APPLICATIONS 4-5 9 CAR LIVERY 5 10 TRACK RUNNING TIME OUTSIDE AN EVENT AND WIND TUNNEL TESTING 6-8 11 PROMOTER 8 12 ORGANISATION OF AN EVENT 9 13 INSURANCE 9 14 FIA DELEGATES 9 15 OFFICIALS 9-10 16 INSTRUCTIONS AND COMMUNICATIONS TO COMPETITORS 10 17 PROTESTS AND APPEALS 10 18 SANCTIONS 10 19 PRESS CONFERENCES, MEDIA OPPORTUNITIES, DRIVERS PARADE AND NATIONAL ANTHEM 11 20 MEETINGS 11 21 GENERAL CAR AND PERSONNEL REQUIREMENTS 12-14 22 GENERAL SAFETY 14-16 23 SPARE CARS,ENGINES AND GEARBOXES 16-18 24 SUPPLY OF TYRES IN THE CHAMPIONSHIP AND TYRE LIMITATION DURING THE EVENT 18-21 25 SCRUTINEERING 21 26 CHANGES OF DRIVER 22 27 DRIVING 22 
- Art CONTENTS Page(s) 28 PIT ENTRY, PIT LANE AND PIT EXIT 22-24 29 WEIGHING 24 30 REFUELLING 24-25 31 PRACTICE SESSIONS 25 32 FREE PRACTICE 26 33 QUALIFYING PRACTICE 26 34 PRE-RACE PARC FERMÉ 26-28 35 THE GRID 28-29 36 STARTING PROCEDURE 29-33 37 THE RACE 33 38 INCIDENTS DURING THE RACE 33-35 39 SAFETY CAR 35-37 40 VIRTUAL SAFETY CAR 37 41 SUSPENDING A RACE 37-38 42 RESUMING A RACE 38-40 43 FINISH 40 44 POST RACE PARC FERMÉ 40 45 CLASSIFICATION 41 46 PODIUM CEREMONY AND POST EVENT PRESS CONFERENCE 41 
- APPENDIX 1 : INFORMATION REQUIRED BY THE FIA 90 DAYS BEFORE AN EVENT 42-43 APPENDIX 2 : ENTRY FORM 44-46 APPENDIX 3 : PODIUM CEREMONY 47-49 APPENDIX 4 : POWER UNIT HOMOLOGATION 50 APPENDIX 5 : REGULATIONS OF THE DRIVER CONTRACT RECOGNITION BOARD 51 APPENDIX 6 : LISTED PARTS 52-54 APPENDIX 7 : ENTRY FEES 55 APPENDIX 8 : AERODYNAMIC TESTING RESTRICTIONS 56-63 APPENDIX 9 : SUPPLY OF POWER UNITS 64-71 
+ PUBLISHED ON 04 DECEMBER 2019 
+**Art CONTENTS Page(s)** 1 REGULATIONS 2 2 GENERAL UNDERTAKING 2 3 GENERAL CONDITIONS 2 4 LICENCES 2 5 CHAMPIONSHIP EVENTS 3 6 WORLD CHAMPIONSHIP 3-4 7 DEAD HEAT 4 8 COMPETITORS APPLICATIONS 4-5 9 CAR LIVERY 5-6 10 TRACK RUNNING TIME OUTSIDE AN EVENT AND WIND TUNNEL TESTING 6-8 11 PROMOTER 9 12 ORGANISATION OF AN EVENT 9 13 INSURANCE 9 14 FIA DELEGATES 9 15 OFFICIALS 10 16 INSTRUCTIONS AND COMMUNICATIONS TO COMPETITORS 10 17 PROTESTS AND APPEALS 10-11 18 SANCTIONS 11 19 PRESS CONFERENCES, MEDIA OPPORTUNITIES, DRIVERS PARADE AND NATIONAL ANTHEM 11-12 20 MEETINGS 12 21 GENERAL CAR AND PERSONNEL REQUIREMENTS 12-15 22 GENERAL SAFETY 15-16 23 SPARE CARS,ENGINES AND GEARBOXES 16-18 24 SUPPLY OF TYRES IN THE CHAMPIONSHIP AND TYRE LIMITATION DURING THE EVENT 18-21 25 SCRUTINEERING 21-22 26 CHANGES OF DRIVER 22 27 DRIVING 22-23 
+ Art CONTENTS Page(s) 28 PIT ENTRY, PIT LANE AND PIT EXIT 23-24 29 WEIGHING 24 30 REFUELLING 25 31 PRACTICE SESSIONS 25-26 32 FREE PRACTICE 26 33 QUALIFYING PRACTICE 26-27 34 PRE-RACE PARC FERMÉ 27-29 35 THE GRID 29-30 36 STARTING PROCEDURE 30-34 37 THE RACE 34 38 INCIDENTS DURING THE RACE 34-35 39 SAFETY CAR 35-37 40 VIRTUAL SAFETY CAR 37-38 41 SUSPENDING A RACE 38-39 42 RESUMING A RACE 39-40 43 FINISH 41 44 POST RACE PARC FERMÉ 41 45 CLASSIFICATION 41 46 PODIUM CEREMONY AND POST EVENT PRESS CONFERENCE 41 
+ APPENDIX 1 : INFORMATION REQUIRED BY THE FIA 90 DAYS BEFORE AN EVENT 42-43 APPENDIX 2 : ENTRY FORM 44-47 APPENDIX 3 : PODIUM CEREMONY 48-50 APPENDIX 4 : POWER UNIT HOMOLOGATION 51 APPENDIX 5 : REGULATIONS OF THE DRIVER CONTRACT RECOGNITION BOARD 52 APPENDIX 6 : LISTED PARTS 53-54 APPENDIX 7 : ENTRY FEES 55 APPENDIX 8 : AERODYNAMIC TESTING RESTRICTIONS 56-63 APPENDIX 9 : SUPPLY OF POWER UNITS 64-69 APPENDIX 9A : PU SUPPLY PERIMETER 70-71 
+**Note** : approved changes for 2020 shown thus 
 The FIA will organise the FIA Formula One World Championship (the Championship) which is the property of the FIA and comprises two titles of World Champion, one for drivers and one for constructors. It consists of the Formula One Grand Prix races which are included in the Formula One calendar and in respect of which the ASNs and organisers have signed organisation agreements with the FIA. All the participating parties (FIA, ASNs, organisers, competitors and circuits) undertake to apply as well as observe the rules governing the Championship and must hold FIA Super Licences which are issued to drivers, competitors, officials, organisers and circuits. 
 ### 1) REGULATIONS 
 **1.1** The final text of these Sporting Regulations shall be the English version which will be used should any dispute arise as to their interpretation. Headings in this document are for ease of reference only and do not form part of these Sporting Regulations. 
 **1.2** These Sporting Regulations apply to the Championship taking place in the calendar year referred to in the title (“the Championship”) and may only be changed after 30 April of the preceding year with the unanimous agreement of all competitors, save for changes made by the FIA for safety reasons which may come into effect without notice or delay. 
-**2) GENERAL UNDERTAKING** 
+### 2) GENERAL UNDERTAKING 
 **2.1** All drivers, competitors and officials participating in the Championship undertake, on behalf of themselves, their employees, agents and suppliers, to observe all the provisions as supplemented or amended of the International Sporting Code (the Code), the Formula One Technical Regulations (the Technical Regulations) and the present Sporting Regulations together referred to as “the Regulations”. 
 **2.2** The Championship and each of its Events is governed by the FIA in accordance with the Regulations. Event means any event entered into the FIA Formula One Championship Calendar for any year commencing 24 hours before P1 is scheduled to take place and ending at the time for the lodging of a protest under the terms of the Code or the time when a technical or sporting certification has been carried out under the terms of the Code, whichever is the later. 
 **2.3** Any special national regulations must be submitted to the FIA with the original application for inclusion of an Event on the international calendar. Only with the approval of the FIA can such special regulations come into force for an Event. 
-**3) GENERAL CONDITIONS** 
+### 3) GENERAL CONDITIONS 
 **3.1** It is the competitor's responsibility to ensure that all persons concerned by his entry observe all the requirements of the Regulations. If a competitor is unable to be present in person at the Event he must nominate his representative in writing. The person having charge of an entered car during any part of an Event is responsible jointly and severally with the competitor for ensuring that the requirements are observed. 
 **3.2** Competitors must ensure that their cars comply with the conditions of eligibility and safety throughout practice and the race. 
 **3.3** The presentation of a car for initial scrutineering (see Article 25.1 below) will be deemed an implicit statement of conformity. 
 **3.4** All persons concerned in any way with an entered car or present in any other capacity whatsoever in the paddock, pit lane, or track must wear an appropriate pass at all times. 
 **3.5** No pass may be issued or used other than with the agreement of the FIA. A pass may be used only by the person and for the purpose for which it was issued. 
-**4) LICENCES** 
+### 4) LICENCES 
 **4.1** All drivers, competitors and officials participating in the Championship must hold a FIA Super Licence. Applications for Super Licences must be made annually to the FIA through the applicant's ASN. 
 **4.2** With the exception of a reprimand or fine, when a penalty is applied under the International Sporting Code or Article 38.3 the stewards may impose penalty points on a driver’s Super Licence. If a driver accrues 12 penalty points his licence will be suspended for the following Event, following which 12 points will be removed from the licence. 
 Penalty points will remain on a driver’s Super Licence for a period of 12 months after which they will be respectively removed on the 12 month anniversary of their imposition. 
-**5) CHAMPIONSHIP EVENTS** 
+### 5) CHAMPIONSHIP EVENTS 
 **5.1** Events are reserved for Formula One cars as defined in the Technical Regulations. 
 **5.2** Each Event will have the status of an international restricted competition. 
 **5.3** The distance of all races, from the start signal referred to in Article 36.9 to the end-of-race signal referred to in Article 43.1, shall be equal to the least number of complete laps which exceed a distance of 305km. However, should two hours’ elapse before the scheduled race distance is completed, the leader will be shown the end-of-race signal when he crosses the control line (the Line) at the end of the lap following the lap during which the two hour period ended, provided this does not result in the scheduled number of laps being exceeded. Only under the circumstances below will any exception be made to the above : 
 a) The distance of the race in Monaco shall be equal to the least number of complete laps which exceed a distance of 260km. 
 b) Should the race be suspended (see Article 41) the length of the suspension will be added to this period up to a maximum total race time of four hours. 
 c) If the formation lap is started behind the safety car (see Article 36.14(c)) the number of race laps will be reduced by the number of laps carried out by the safety car minus one. 
-**5.4** The maximum number of Events in the Championship is 21, the minimum is 8. 
+**5.4** The maximum number of Events in the Championship is 22, the minimum is 8. 
 **5.5** The final list of Events is published by the FIA before 1 January each year. 
 **5.6** An Event which is cancelled with less than three months’ written notice to the FIA will not be considered for inclusion in the following year's Championship unless the FIA judges the cancellation to have been due to force majeure. 
 **5.7** An Event may be cancelled if fewer than 12 cars are available for it. 
-**6) WORLD CHAMPIONSHIP** 
+### 6) WORLD CHAMPIONSHIP 
 **6.1** The Formula One World Championship driver's title will be awarded to the driver who has scored the highest number of points, taking into consideration all the results obtained during the Events which have actually taken place. 
 **6.2** The title of Formula One World Champion Constructor will be awarded to the competitor which has scored the highest number of points, results from both cars (see Article 8.6) being taken into account. 
 **6.3** A constructor is the person (including any corporate or unincorporated body) which designs the Listed Parts set out in Appendix 6. The make of an engine or chassis is the name attributed to it by its constructor. The obligation to design and use Listed Parts shall not prevent a constructor from outsourcing the design and/or manufacture of any Listed Parts to a third party in accordance with the provisions of Appendix 6. 
 If the make of the chassis is not the same as that of the engine, the title will be awarded to the former which shall always precede the latter in the name of the car. 
 **6.4** Points for both titles will be awarded at each Event according to the following scale : 
-1st : 25 points 2nd : 18 points 3rd : 15 points 4th : 12 points 5th : 10 points 6th : 8 points 7th : 6 points 8th : 4 points 9th : 2 points 10th : 1 point 
-In addition to the above, one point will be awarded to the driver who achieved the fastest lap of the race and to the constructor whose car he was driving, provided the lap time was achieved without incurring a penalty and he was in the top ten positions of the final race classification (see Article 45). No point will be awarded if the fastest lap is achieved by a driver who was classified outside the top ten positions. 
+ 1st : 25 points 2nd : 18 points 3rd : 15 points 4th : 12 points 5th : 10 points 6th : 8 points 7th : 6 points 8th : 4 points 9th : 2 points 
+ 10th : 1 point 
+In addition to the above, one point will be awarded to the driver who achieved the fastest valid lap time of the race and to the constructor whose car he was driving, provided he was in the top ten positions of the final race classification (see Article 45). No point will be awarded if the fastest valid lap time is achieved by a driver who was classified outside the top ten positions. 
 **6.5** If a race is suspended under Article 41, and cannot be resumed, no points will be awarded if the leader has completed two laps or less, half points will be awarded if the leader has completed more than two laps but less than 75% of the original race distance and full points will be awarded if the leader has completed 75% or more of the original race distance. 
 If the formation lap is started behind the safety car (see Article 36.14(c)), the original race distance will be deemed to be the distance calculated in accordance with Article 5.3(c). However, the maximum race time of four hours (see Article 5.3(b) will commence at the scheduled race start time. 
 **6.6** The drivers finishing first, second and third in the Championship must be present at the annual FIA Prize Giving ceremony. 
-**7) DEAD HEAT** 
+### 7) DEAD HEAT 
 **7.1** Prizes and points awarded for all the positions of competitors who tie, will be added together and shared equally. 
 **7.2** If two or more constructors or drivers finish the season with the same number of points, the higher place in the Championship (in either case) shall be awarded to : 
 a) The holder of the greatest number of first places. 
 b) If the number of first places is the same, the holder of the greatest number of second places. 
 c) If the number of second places is the same, the holder of the greatest number of third places and so on until a winner emerges. 
 d) If this procedure fails to produce a result, the FIA will nominate the winner according to such criteria as it thinks fit. 
-**8) COMPETITORS APPLICATIONS** 
-**8.1** Applications to compete in the Championship may be submitted to the FIA during the period 21 October to 1 November inclusive of the year prior to the year to which the application relates on an entry form as set out in Appendix 2 hereto accompanied by an undertaking to pay the entry fee, calculated in accordance with Appendix 7, to the FIA no later than 30 November of the year prior to the year to which the application relates. Applications at other times will only be considered if a place is available and on payment of a late entry fee to be fixed by the FIA. Entry forms will be made available by the FIA who will notify the applicant of the result of the application within thirty days of its receipt. 
+### 8) COMPETITORS APPLICATIONS 
+**8.1** Applications to compete in the Championship may be submitted to the FIA during the period 21 October to 1 November inclusive of the year prior to the year to which the application relates on an entry form as set out in Appendix 2 hereto accompanied by an undertaking to pay the entry fee, calculated in accordance with Appendix 7, to the FIA no later than 10 December of the year prior to the year to which the application relates. Applications at other times will only be considered if a place is available and on payment of a late entry fee to be fixed by the FIA. Entry forms will be made available by the FIA who will notify the applicant of the result of the application within thirty days of its receipt. 
 Successful applicants are automatically entered in all Events of the Championship and will be the only competitors at Events. 
 **8.2** Applications shall include : 
 a) Confirmation that the applicant has read and understood the Regulations and agrees, on its own behalf and on behalf of everyone associated with its participation in the Championship, to observe them. 
@@ -62,10 +64,10 @@ e) The names of the drivers. A driver may be nominated subsequent to the applica
 f) An undertaking by the applicant to participate in every Event with the number of cars and drivers entered. 
 **8.3** A competitor may change the make of engine at any time during the Championship. All points scored with an engine of different make to that which was first entered in the Championship may count (and will be aggregated) for the assessment of a commercial benefit, however such points will not count towards (nor be aggregated for) the FIA Formula One Constructors Championship. A major car manufacturer may not directly or indirectly supply engines for more than three teams of two cars each without the consent of the FIA. For the purposes of this Article 8.3, a major car manufacturer is a company whose shares are quoted on a recognised stock exchange or the subsidiary of such a company. 
 **8.4** With the exception of those whose cars have scored points in the Championship of the previous year, applicants must supply information about the size of their company, their financial position and their ability to meet their prescribed obligations. 
-**8.5** All applications will be studied by the FIA and accepted or rejected at its absolute discretion. The FIA will publish the list of cars and drivers accepted together with their race numbers on or before 30 November of the year prior to the year to which the applications relate, having first notified unsuccessful applicants as set out in Article 8.1. Out-of-time applications will be considered separately. 
+**8.5** All applications will be studied by the FIA and accepted or rejected at its absolute discretion. The FIA will publish the list of cars and drivers accepted together with their race numbers on or before 15 December of the year prior to the year to which the applications relate, having first notified unsuccessful applicants as set out in Article 8.1. Out-of-time applications will be considered separately. 
 **8.6** No more than 26 cars will be admitted to the Championship, two being entered by each competitor. 
 **8.7** If in the opinion of the F1 Commission a competitor fails to operate his team in a manner compatible with the standards of the Championship or in any way brings the Championship into disrepute, the FIA may exclude such competitor from the Championship forthwith. 
-**9) CAR LIVERY** 
+### 9) CAR LIVERY 
 **9.1** The provisions of the Code relating to national colours shall not apply to the Championship. 
 Both cars entered by a competitor must be presented in substantially the same livery at every Event, any significant change to this livery during a Championship season may only be made with the agreement of the Formula One Commission. 
 In order that the cars of each team may be easily distinguished from one another whilst they are on the track, the on board cameras located above the principal roll structure of the first car must remain as it is supplied to the team and the second car must be predominantly fluorescent yellow. 
@@ -104,18 +106,18 @@ THC may only be carried out with cars built to the specification of the period a
 a) Have been subjected to, and fulfilled the requirements of the static and dynamic tests described in Articles 16, 17 and 18 of the F1 Technical Regulations of the relevant year. 
 b) Comply with the requirements of Articles 13 and 14 of the F1 Technical Regulations of the relevant year (with the exception of Articles 13.1.1, 13.3.1 and 13.3.2 for the sole purpose of test sensor installations). 
 Any car used for TCC, TPC or PE must be fitted with the secondary side intrusion panels described in Article 15 of the F1 Technical Regulations and the Appendix to the Technical and Sporting Regulations of the relevant year. 
-**10.5** TCC may only take place on tracks currently approved for use by Formula 1 cars and located in Europe (unless agreed by the majority of the competitors and the FIA), may never occur whilst a Championship Event is taking place and shall be limited to : 
-a) Two tests, open to all competitors, of no more than four consecutive days’ duration carried out between 1 February and ten days before the start of the first Event of the Championship. 
-One day from any of these two tests may be set aside for testing of wet-weather tyres if requested by the appointed tyre supplier. Arrangements for this day of testing will be made in full consultation with all competitors and the FIA. 
-b) Two tests, open to all competitors, of no more than two consecutive days’ duration carried out on circuits where an Event has just taken place, such tests commencing no less than 36 hours after the end of the relevant Events. 
-Each competitor must allocate at least two of the above days for drivers in possession of an International A Licence not having competed in more than two F1 World Championship races during their career. 
-c) One test, for the sole purpose of providing all competitors with the chance to test the tyre specifications to be used the following season, of two consecutive days’ duration carried out on the circuit at which the last Event of the Championship was held, such test commencing no less than 36 hours after the end of the Event. 
-The above tests will be organised by the FIA in consultation with all competitors and the appointed tyre supplier. The test schedule will be finalised within 21 days of the first publication of the Championship calendar, changes may only be made after this date with the agreement of all competitors. 
-d) 25 car days of testing for the sole purpose of providing the appointed tyre supplier with the chance to test improvements to the design of their tyres, carried out between the end of the first Event of the Championship and one week following the end of the last Event of the Championship, organised by the FIA in consultation with all competitors and the appointed tyre supplier. Any such testing scheduled at a circuit hosting an Event of the Championship may only be carried out after that Event has taken place. 
-e) One day, carried out between the start of a ten day period which precedes the start of the second Event and the last Event of the Championship, in case a competitor declares that one of its current race drivers is to be substituted by a driver who has not participated in an F1 World Championship race in the two previous calendar years. The following must be observed: 
+**10.5** TCC may only take place on tracks currently approved for use by Formula 1 cars and located in Europe (unless agreed by the majority of the competitors and the FIA), may never occur whilst a Championship Event is taking place and shall be limited to : a) Two tests, open to all competitors, of no more than three consecutive days’ duration carried out between 1 February and ten days before the start of the first Event of the Championship. 
+One day from any of these two tests may be set aside for testing of wet-weather tyres if requested by the appointed tyre supplier. Arrangements for this day of testing will be made in full consultation with all competitors and the FIA. During these tests, and between 09:00 and 18:00 of each day, the provisions of Article 21.4 will apply, with the following additional exceptions, when covers may be used: 
+- Anytime the floor of a car being used for testing is not fitted. 
+- During the recovery and repair of a car damaged during track running. 
+b) One test, of three consecutive days’ duration carried out on the circuit at which the last Event of the Championship was held, such test commencing no less than 36 hours after the end of the Event. i. One or two days of this test must be completed by drivers who have participated in at least one race during the 2020 Formula 1 World Championship, and must be for the sole purpose of providing Competitors with the chance to test the tyre specifications to be used the following season. In the event that a Competitor is unable to provide a car that is compatible with such tyres, they will not be allowed to participate in this part of testing. 
+ ii. One or two days of this test must be for the sole purpose of providing Young Drivers with the opportunity to test current Formula 1 Cars. Drivers eligible for this purpose must: ₋ Be in possession of an International A Licence ₋ Not have competed in more than two F1 World Championship races during their career 
+ It will be left to the Competitor’s discretion, in agreement with the Tyre Supplier, to choose whether the car used for these purposes is of a configuration that has raced in the 2020 Formula 1 World Championship or of a configuration compatible with the tyre of the specifications to be used in the following season. 
+c) 25 car days of testing for the sole purpose of providing the appointed tyre supplier with the chance to test improvements to the design of their tyres, carried out between 01 February 2020 and one week following the end of the last Event of the Championship, organised by the FIA in consultation with all competitors and the appointed tyre supplier. Only cars that raced in the 2018 or 2019 Championships, appropriately modified, may be used for any such tests that get carried out before the first Event of the 2020 Championship. Furthermore, with the exception of tyres, wheel rims and wheel rim covers, no car or subcomponent that is intended to provide technical information for the 2021 Technical Regulations will be permitted. Any such testing scheduled at a circuit hosting an Event of the Championship may only be carried out after that Event has taken place. d) One day, carried out between the start of a ten day period which precedes the start of the second Event and the last Event of the Championship, in case a competitor declares that one of its current race drivers is to be substituted by a driver who has not participated in an F1 World Championship race in the two previous calendar years. The following must be observed: 
 - Any such day may only be carried out by the new driver and may not take place     on a circuit hosting a race in the current Championship year. 
 - Any such day may only take place within a period 14 days prior to the substitution     and 14 days after the substitution has taken place. 
-- If a competitor, having declared the driver’s substitution and performed the test,     does not then enter an Event with the new driver, the competitor will be     penalised by a reduction of one day from the pre-season TCC days available in the     following year. With the exception of any test being carried out at night, in which case a new test schedule lasting no more than nine hours will be arranged, running may only take place between 9:00 and 18:00. In both cases each competitor may only use one car per day. 
+- If a competitor, having declared the driver’s substitution and performed the test,     does not then enter an Event with the new driver, the competitor will be     penalised by a reduction of one day from the pre-season TCC days available in the     following year. 
+ With the exception of any test being carried out at night, in which case a new test schedule lasting no more than nine hours will be arranged, running may only take place between 9:00 and 18:00. In both cases each competitor may only use one car per day. 
 **10.6** TPC may only take place on tracks currently holding an FIA Grade 1 or 1T licence. 
 **10.7** During all TCC and TPC cars must be fitted with the FIA ECU required by Article 8.2 of the FIA Formula One Technical Regulations. 
 **10.8** During all Formula One TCC : 
@@ -126,26 +128,27 @@ d) Cars being driven by drivers who do not qualify for a Super Licence must be f
 e) Every reasonable effort should be made to ensure that the recommendations concerning emergency services detailed in Supplement 1 of Appendix H to the Code are followed. 
 **10.9** If, after an incident during TCC and TPC, the Medical Warning Light signals that threshold forces have been exceeded the driver must present himself for examination in the circuit medical centre without delay. 
 **10.10** Competitors must abide by the aerodynamic testing restrictions set out in Appendix 8. 
-**11) PROMOTER** 
+### 11) PROMOTER 
 **11.1** An application to promote an Event must be made to the ASN of the country in which the Event is to take place, which will apply to the FIA. It must be accompanied by written evidence that the promoter has made arrangements to secure the participation of competitors, which arrangements are conditional only upon the FIA entering the Event on the Championship calendar. 
 ### 12) ORGANISATION OF EVENTS 
 **12.1** An organiser is a body nominated by the ASN and appointed by the FIA. Upon deciding to grant an application to hold an Event, the FIA will invite the relevant ASN to organise it or to nominate an organiser. If the ASN is not in a position to do so, the FIA may itself appoint an organiser. The organiser must be a club or body acceptable to the FIA and must enter into an organisation agreement with the FIA when it applies to organise the Event. 
-**13) INSURANCE** 
+### 13) INSURANCE 
 **13.1** The promoter of an Event must procure that all competitors, their personnel and drivers are covered by third party insurance in accordance with the FIA requirements. 
 **13.2** Ninety days before the Event, the promoter must send the FIA details of the risks covered by the insurance policy which must comply with the national laws in force as well as the FIA requirements. Sight of the policy must be available to the competitors on demand. 
 **13.3** Third party insurance arranged by the promoter shall be in addition and without prejudice to any personal insurance policy held by a competitor or any other participant in the Event. 
 **13.4** Drivers taking part in the Event are not third parties with respect to one another. 
-**14) FIA DELEGATES** 
+### 14) FIA DELEGATES 
 **14.1** For each Event the FIA will nominate the following delegates : 
 a) Safety delegate. 
 b) Medical delegate. 
 c) Technical delegate. 
-d) Press delegate. 
+d) Media delegate. 
 And may nominate : 
 e) A representative of the President of the FIA. 
-f) An observer. 
-g) A safety car driver. 
-h) A medical car driver. 
+f) A Deputy Race Director. 
+g) An observer. 
+h) A safety car driver. 
+i) A medical car driver. 
 **14.2** The role of the FIA delegates is to help the officials of the Event in their duties, to see within their fields of competence that all the regulations governing the Championship are respected, to make any comments they judge necessary and to draw up any necessary reports concerning the Event. 
 **14.3** The technical delegate nominated by the FIA is responsible for scrutineering. In this respect he may carry out, or have carried out by scrutineers, at his discretion, any checks to verify the compliance of the cars entered in the event, at any time until the end of the event, without prior request from the stewards or clerk of the course. The FIA technical delegate has full authority over the national scrutineers. 
 **15) OFFICIALS** 
@@ -165,11 +168,11 @@ e) The use of the safety car.
 **15.4** The stewards, the race director, the clerk of the course and the technical delegate must be present at the start of the Event. 
 **15.5** The race director must be in radio contact with the clerk of the course and the chairman of the stewards at all times when cars are permitted to run on the track. Additionally, the clerk of the course must be in race control and in radio contact with all marshal's posts during these times. 
 **15.6** The stewards may use any video or electronic means to assist them in reaching a decision. The stewards may overrule judges of fact. 
-**16) INSTRUCTIONS AND COMMUNICATIONS TO COMPETITORS** 
+### 16) INSTRUCTIONS AND COMMUNICATIONS TO COMPETITORS 
 **16.1** The stewards or race director may give instructions to competitors by means of special circulars in accordance with the Code. These circulars will be distributed to all competitors who must acknowledge receipt. 
 **16.2** All classifications and results of practice and the race, as well as all decisions issued by the officials, will be published via the FIA document and messaging system. 
 **16.3** Any decision or communication concerning a particular competitor should be given to him within twenty five minutes of such decision, and receipt must be acknowledged. 
-**17) PROTESTS AND APPEALS** 
+### 17) PROTESTS AND APPEALS 
 **17.1** Protests shall be made in accordance with the Code and accompanied by a fee of €2000. 
 **17.2** Appeals may not be made against decision concerning the following : 
 a) Penalties imposed under Articles 38.3a), b), c), d), e), f) or g), including those imposed during the last three laps or after the end of a race. 
@@ -178,26 +181,26 @@ c) Any penalty imposed under Article 31.4.
 d) Any decision taken by the stewards in relation to Article 35.1. 
 e) Any penalty imposed under Articles 36.4 or 42.3. 
 f) Any decision taken by the stewards under Article 4.2. 
-**18) SANCTIONS** 
+### 18) SANCTIONS 
 **18.1** The stewards may inflict the penalties specifically set out in these Sporting Regulations in addition to or instead of any other penalties available to them under the Code. 
 **18.2** Any driver who receives three reprimands in the same Championship season will, upon the imposition of the third, be given a ten grid place penalty at that Event. If the third reprimand is imposed following an Incident during a race the ten grid place penalty will be applied at the driver’s next Event. 
 The ten grid place penalty will only be imposed if at least two of the reprimands were imposed for a driving infringement. 
 ### 19) PRESS CONFERENCES, MEDIA OPPORTUNITES, DRIVERS PARADE AND NATIONAL ANTHEM 
 **19.1** Day before first practice : 
- The FIA press delegate will choose a maximum of five drivers who must attend a press conference in the media centre for a period of one hour commencing 20 hours before the scheduled start of P1. However, at Events being held in North, Central or South America the press conference will commence one hour after the start of the Event. These drivers' teams will be notified no less than 48 hours before the conference. In addition, a maximum of two team personalities may be chosen by the FIA press delegate to attend this press conference. 
+ The FIA Media delegate will choose a maximum of five drivers who must attend a press conference in the media centre for a period of one hour commencing 20 hours before the scheduled start of P1. However, at Events being held in North, Central or South America the press conference will commence one hour after the start of the Event. These drivers' teams will be notified no less than 48 hours before the conference. In addition, a maximum of two team personalities may be chosen by the FIA Media delegate to attend this press conference. 
 **19.2** First day of practice : 
- On the first day of practice, a minimum of three and a maximum of six drivers and/or team personalities, (other than those who attended the press conference on the previous day and subject to the consent of the team principal) will be chosen by ballot or rota by the FIA press delegate during the Event and must make themselves available to the media for a press conference in the media centre for a period of one hour 30 minutes after the scheduled end of P1. 
-On a day suitable to the promoter’s schedule all drivers must be available for autograph signing. The time, place and procedure will be communicated to the teams by the FIA after agreement with the promoter and the Commercial Rights Holder. Drivers must be available at all reasonable times during an Event to talk to the media as required by the FIA press delegate. 
+ On the first day of practice, a minimum of three and a maximum of six drivers and/or team personalities, (other than those who attended the press conference on the previous day and subject to the consent of the team principal) will be chosen by ballot or rota by the FIA Media delegate during the Event and must make themselves available to the media for a press conference in the media centre for a period of one hour 30 minutes after the scheduled end of P1. 
+On a day suitable to the FIA and the Commercial Rights Holder, all drivers must be available for autograph signing. The time, place and procedure will be communicated to the teams by the FIA after agreement with the Commercial Rights Holder. Drivers must be available at all reasonable times during an Event to talk to the media as required by the FIA Media delegate. 
 **19.3** Second day of practice : 
 All drivers eliminated in Q1 or Q2 must make themselves available for media interviews immediately after the end of each session. In addition, all drivers who participated in Q3, and who are not required to take part in the post-qualifying press conference, must make themselves available for media interviews immediately after Q3. 
 Immediately after the qualifying practice session the first three drivers in the session will be required to make themselves available for television interviews in the unilateral room and then attend a press conference in the media centre for a maximum period of 30 minutes. 
 **19.4** Race day : 
-i) One hour and 40 minutes before the scheduled start of the formation lap all drivers must attend a drivers’ parade. Competitors will be given details of the parade by the FIA press delegate. 
-ii) 16 minutes before the scheduled start of the formation lap all drivers must be present at the front of the grid for the playing of the national anthem. Competitors will be given details by the FIA press delegate. 
+i) One hour and 40 minutes before the scheduled start of the formation lap all drivers must attend a drivers’ parade. Competitors will be given details of the parade by the FIA Media delegate. 
+ii) 16 minutes before the scheduled start of the formation lap all drivers must be present at the front of the grid for the playing of the national anthem. Competitors will be given details by the FIA Media delegate. 
 iii) Any driver retiring before the end of the race must make himself available for media interviews after his return to the paddock. 
 iv) All drivers who finish the race outside the top three must make themselves available immediately after the end of the race for media interviews. 
 v) During the race every team must make at least one senior spokesperson available for interviews by officially accredited TV crews. 
-**20) MEETINGS** 
+### 20) MEETINGS 
 **20.1** Meetings, chaired by the race director, will take place 22 hours before the start of P1 and one and a half hours after the end of P2. The first must be attended by all team managers and the second by all drivers. 
 Should the race director consider another meeting necessary it will take place three hours before the start of the race. Competitors will be informed no later than three hours after the end of the qualifying practice session. All drivers and team managers must attend. 
 ### 21) GENERAL CAR AND PERSONNEL REQUIREMENTS 
@@ -210,7 +213,8 @@ iii) A lap trigger.
 iv) The driver input signal used to initiate the propulsion of the car at the start of a race. 
 b) For the purpose of accident analysis, each driver must wear in-ear accelerometers which have been manufactured by the FIA designated supplier to a specification determined by the FIA. These should be worn by the driver during each Event and all tests which are attended by more than one team, teams must use their best endeavours to ensure that they are in working order at all times. 
 c) For the purpose of aiding driver rescue, each driver must wear a biometric glove which has been manufactured by the FIA designated supplier to a specification determined by the FIA. These should be worn by the driver during each Event, and teams must use their best endeavours to ensure that the glove is in working order at all times. 
-d) At any time following an accident or incident competitors must make the data recorder available and accessible to the FIA. A representative of the team concerned may be present when data relevant to an accident or incident is being uploaded from the recorder. A copy of the data will be made available to the team. 
+d) At any time following an accident or incident competitors must make the data recorder 
+ available and accessible to the FIA. A representative of the team concerned may be present when data relevant to an accident or incident is being uploaded from the recorder. A copy of the data will be made available to the team. 
 e) Any conclusions as to the cause of an accident, or any data relevant to an accident, may only be published in the form of a report which has been agreed between the team concerned and the FIA. 
 **21.3** All cars must be fitted with a car positioning system which has been manufactured by the FIA designated supplier to a specification determined by the FIA. No other parts which, in the opinion of the FIA are capable of performing a similar function, may be fitted to any car. 
 **21.4** During the entire Event, no screen, cover or other obstruction which in any way obscures any part of a car will be allowed at any time in the paddock, garages, pit lane or grid, unless it is clear any such covers are needed solely for mechanical reasons, which could, for example, include protecting against fire. 
@@ -235,11 +239,9 @@ The system will be disabled by the control electronics the first time the driver
 The FIA may, after consulting all competitors, adjust the above time proximity in order to ensure the stated purpose of the adjustable bodywork is met. 
 c) In the event of a failure in the system which notifies the driver that he was within one second of the car in front, and is hence authorised to use the adjustable bodywork, the team concerned may ask the race director for permission to override the system. If permission is given in this way the onus will be upon the team concerned to ensure that their driver only uses the adjustable bodywork if he is within one second of the car in front of him. 
 If the failure in the system is rectified the driver may no longer use this override, the race director will notify the team if and when the fault has been remedied. 
-**21.6** From the start of the Event until two hours after the start of the race no competitor may have more than a total of 60 team personnel who are associated in any way with the operation of the cars within the confines of the circuit. However, during the period starting 45 minutes before the start of the first formation lap until 15 minutes after the scheduled start of the race the number of such operational personnel is unlimited. For the avoidance of doubt staff whose duties are solely connected with hospitality, team motorhomes, sponsors, marketing, public relations, security or driving trucks to or from the Event are not considered operational personnel. 
-In addition to the 60 personnel described above each competitor will be allowed six individual exceptions during a Championship season for trainee personnel, however, no individual trainee may attend more than two Events in this capacity. 
+**21.6** From the start of the Event until two hours after the start of the race no competitor may have more than a total of 60 team personnel who are associated in any way with the operation of the cars within the confines of the circuit. However, during the period starting 45 minutes before the start of the first formation lap until 15 minutes after the scheduled start of the race the number of such operational personnel is unlimited. For the avoidance of doubt staff whose duties are solely connected with hospitality, team motorhomes, sponsors, marketing, public relations, security or driving trucks to or from the Event are not considered operational personnel. In addition to the 60 personnel described above each competitor will be allowed six individual exceptions during a Championship season for trainee personnel, however, no individual trainee may attend more than two Events in this capacity. 
 A list of all operational, exempt, trainee and single race personnel must be submitted to the FIA prior to each Event using the official template that may be found in the Appendix to these Sporting Regulations. 
-**21.7** No team personnel who are associated in any way with the operation of the cars are permitted within the confines of the circuit during two nine hour restricted periods which commence twelve hours before the scheduled start times of P1 and P3. With the exception of Monaco, if 
- the unrestricted time between the end of P2 and the start of the second restricted period exceeds nine hours the excess will be added to the second restricted period. 
+**21.7** No team personnel who are associated in any way with the operation of the cars are permitted within the confines of the circuit during two nine hour restricted periods which commence twelve hours before the scheduled start times of P1 and P3. With the exception of Monaco, if the unrestricted time between the end of P2 and the start of the second restricted period exceeds seven and a half hours the excess will be added to the second restricted period. 
 Each team will be permitted two individual exceptions to the above during a Championship season, however, both of these exceptions may not be used during a single Event. 
 For the avoidance of doubt, personnel whose duties are solely connected with catering, media or marketing are exempt from the above requirements. 
 **21.8** All competitors must observe a shutdown period of fourteen consecutive days during the time that two consecutive Events are separated by at least twenty four days during the months of July and/or August. If two consecutive Events during this period are separated by only seventeen days a shutdown period of thirteen consecutive days must be observed. In either case competitors should notify the FIA of their intended shutdown period within 30 days of the start of the championship season. 
@@ -256,7 +258,7 @@ b) The assembly and servicing of running or static show cars, none of which may 
 c) The operation and use of any wind tunnel or computer resource for Restricted CFD Simulations provided this is being carried out for projects with no direct relation to Formula One or for or on behalf of a competitor that is not at that time within its own shutdown period. 
 d) Any activity the sole purpose of which is supporting projects unconnected to Formula One, subject to the written approval from the FIA. 
 e) Any activity in relation to the power unit as defined in the Technical Regulations. 
-**22) GENERAL SAFETY** 
+### 22) GENERAL SAFETY 
 **22.1** Official instructions will be given to drivers by means of the signals laid out in the Code. Competitors must not use flags or lights similar to these. 
 **22.2** Save where these Sporting Regulations require otherwise, pit lane and track discipline and safety measures will be the same for all practice sessions as for the race. 
 **22.3** Other than by driving on the track, Competitors are not permitted to attempt to alter the grip of any part of the track surface. 
@@ -271,7 +273,7 @@ c) Team personnel when either pushing a car or clearing equipment from the grid 
 d) Team personnel when assisting marshals to remove a car from the grid after the start of the race. 
 **22.8** During a race, the engine may only be started with the starter except in the pit lane or the team’s designated garage area where the use of an external starting device is allowed. 
 **22.9** Drivers taking part in practice and the race must always wear the clothes, helmets and head and neck supports specified in the Code. 
-**22.10** A speed limit of 80km/h will be imposed in the pit lane during the whole Event. However, this limit may be amended by the stewards following a recommendation from the FIA F1 safety delegate. 
+**22.10** A speed limit of 80km/h will be imposed in the pit lane during the whole Event. However, this limit may be amended by the Race Director following a recommendation from the FIA F1 safety delegate. 
 Any team whose driver exceeds the limit during any practice session will be fined €100 for each km/h above the limit, up to a maximum of €1000. 
 However, in accordance with Article 18.1 the stewards may inflict an additional penalty if they suspect a driver was speeding in order to gain any sort of advantage. 
 During the race the stewards may impose either of the penalties under Article 38.3a), b), c) or d) on any driver who exceeds the limit. 
@@ -285,10 +287,10 @@ b) The period commencing fifteen minutes before the pit exit is opened to allow 
 If, after an incident, the Medical Warning Light signals that threshold forces have been exceeded the driver must be examined by the Event medical service without delay, the FIA Medical Delegate will determine the most appropriate place for this examination. 
 **22.16** The organiser must make at least two fire extinguishers of 5kg capacity available to each competitor and ensure that they work properly. 
 **22.17** Animals, except those which may have been expressly authorised by the FIA for use by security services, are forbidden on the track, in the pit lane, in the paddock or in any spectator area. 
-**23) SPARE CARS, ENGINES AND GEARBOXES** 
+### 23) SPARE CARS, ENGINES AND GEARBOXES 
 **23.1** Each competitor may have no more than two cars available for use at any one time during an Event. 
 **23.2** Any driver whose car has a change of survival cell following the start of the third free practice session (P3) must start the race from the pit lane following the procedures detailed in Article 36.2. Under these circumstances the car concerned will not have to comply with the requirements of Article 34. 
-**23.3** a) Unless he drives for more than one team (see 23.3(c) below), and subject to the additions described below, each driver may use no more than 3 engines (ICE), 3 motor generator units-heat (MGU-H), 3 turbochargers (TC), 2 energy stores (ES), 2 control electronics (CE) and 2 motor generator units-kinetic (MGU-K) during a Championship season. 
+**23.3** a) Unless he drives for more than one team (see 23.3(c) below), and subject to the additions described below, each driver may use no more than 3 engines (ICE), 3 motor generator units-heat (MGU-H), 3 turbochargers (TC), 2 energy stores (ES), 2 control electronics (CE) and 3 motor generator units-kinetic (MGU-K) during a Championship season. 
 With the consent of (and at the sole discretion of) the FIA, the numbers above will be increased by one for any driver using a power unit provided by a new power unit manufacturer (as defined in Appendix 9) taking part in their first Championship season. 
 b) Should a driver use more than the numbers set in a) above of any one of the elements during a Championship season, a grid place penalty will be imposed upon him at the first Event during which each additional element is used. Penalties will be applied according to the following table and will be cumulative : 
 The first time an additional element is used Ten grid place penalty. 
@@ -314,7 +316,7 @@ b) If a driver is replaced after the first, second, third, fourth or fifth Event
 c) After consultation with the relevant team the FIA will attach seals to each gearbox prior to it being used for the first time at an Event in order to ensure that no significant moving parts can be rebuilt or replaced. 
 d) Change gears and dog rings (excluding final drives or reduction gears) may be changed under supervision for others of identical specification at any time during an Event provided the FIA technical delegate is satisfied there is evident physical damage to the parts in question and that such changes are not being carried out on a systematic basis. 
 e) Other than under d) above, a replacement gearbox will also be deemed to have been used if any of the FIA seals are damaged or removed from the original gearbox after it has been used for the first time. 
-**24) SUPPLY OF TYRES IN THE CHAMPIONSHIP AND TYRE LIMITATION DURING THE EVENT** 
+### 24) SUPPLY OF TYRES IN THE CHAMPIONSHIP AND TYRE LIMITATION DURING THE EVENT 
 **24.1** Supply of tyres : 
 The single tyre manufacturer (the Supplier) appointed by the FIA must undertake to provide : 
 a) Three specifications of dry-weather tyre at each Event, each of which must be visibly distinguishable from one another when a car is on the track. 
@@ -350,14 +352,14 @@ d) If an additional driver is used (see Article 26.1(b)) he must use the tyres a
 e) If an additional specification of dry-weather tyre is made available in accordance with Article 24.1(b) two sets of these tyres will be allocated to each driver for use during P1 and P2. Any such tyres must be electronically returned no later than two hours after the end of P2. 
 f) If either P1 or P2 are declared wet one additional set of intermediate tyres will be made available to any driver who used a set of intermediate tyres during either session. Under such circumstances, one used set of intermediate tyres must be electronically returned before the start of the qualifying practice session. 
 If neither P1 nor P2 are declared wet, but the likelihood of P3 being declared wet is deemed by the FIA to be high, one additional set of intermediate tyres will be made available to all drivers. Under such circumstances, one set of intermediate tyres must be electronically returned before the start of the qualifying practice session. 
-g) From the thirteen sets of dry-weather tyres allocated to each driver under Article 24.2(c) : 
-i) One set of the mandatory Q3 tyre specification may not be used nor returned before Q3 and, for the cars that qualified for Q3, must be electronically returned no later than three and a half hours after the end of Q3. 
+g) From the thirteen sets of dry-weather tyres allocated to each driver under Article 24.2(c): 
+i) One set of the mandatory Q3 tyre specification may not be used nor returned before Q3 and, for the cars that qualified for Q3, one set of the same specification must be electronically returned no later than three and a half hours after the end of Q3. 
 ii) Two sets of the mandatory race specification(s) may not be returned before the race. For the avoidance of doubt, if there are two mandatory race tyre specifications, one set of each specification may not be returned before the race. 
 From the ten remaining sets : 
- iii) One set, which each competitor must nominate prior to the start of P1 (or may renominate with the consent of the FIA technical delegate), may only be used during the first 40 minutes of the session. If the session is stopped during the first 40 minutes the length of the stoppage will be added to the 40-minute limit. iv) One further set must be electronically returned no later than two hours after the end of P1. v) Two further sets must be electronically returned no later than two hours after the end of P2 unless both P1 and P2 are either declared wet or cancelled, in which case one of these sets may be retained by each driver but must be electronically returned no later than two hours after the end of P3. vi) Two further sets must be electronically returned no later than two hours after the end of P3. 
+ iii) One set, which each competitor must nominate prior to the start of P1 (or may renominate with the consent of the FIA technical delegate), may only be used during the first 40 minutes of the session. If the session is stopped during the first 40 minutes the length of the stoppage will be added to the 40-minute limit. If P1 is declared wet before or at the start of the session, use will be extended for the remainder of the session. The extended use for this set of tyres will only be available to drivers who have covered more than 1 installation lap on either an intermediate or wet tyre. iv) One further set must be electronically returned no later than two hours after the end of P1. v) Two further sets must be electronically returned no later than two hours after the end of P2 unless both P1 and P2 are either declared wet or cancelled, in which case one of these sets may be retained by each driver but must be electronically returned no later than two hours after the end of P3. vi) Two further sets must be electronically returned no later than two hours after the end of P3. 
 h) Once all tyres have been returned electronically after P2 and the qualifying practice session the Supplier will publish a list of the tyres which each driver has available to him for the remainder of the Event. 
 i) Prior to the start of the qualifying practice session intermediate and wet-weather tyres may only be used after the track has been declared wet by the race director, following which intermediate, wet or dry-weather tyres may be used for the remainder of the session. 
-j) With the exception of any cars which have a change of survival cell after the qualifying practice session, at the start of the race each car which qualified for Q3 must be fitted with the tyres with which the driver set his fastest time during Q2. This will only be necessary for these cars if dry-weather tyres were used to set the fastest time in Q2 and if dry-weather tyres are used at the start of the race. 
+j) With the exception of any cars that are required to start the race from the pitlane, at the start of the race each car which qualified for Q3 must be fitted with the tyres with which the driver set his fastest time during Q2. This will only be necessary for these cars if dryweather tyres were used to set the fastest time in Q2 and if dry-weather tyres are used at the start of the race. 
 Any such tyres damaged during Q2 will be inspected by the FIA technical delegate who will decide, at his absolute discretion, whether any may be replaced and, if so, which tyres they should be replaced with. 
 A penalty under Article 38.3(d) will be imposed on any driver whose car is not fitted with the tyres with which he set his fastest time in Q2 (except if damaged tyres have been replaced with the approval of the FIA technical delegate). 
 k) Unless he has used intermediate or wet-weather tyres during the race, each driver must use at least two different specifications of dry-weather tyres during the race, at least one of which must be a mandatory dry-weather race tyre specification as defined in Article 24.2(b). Unless a race is suspended and cannot be re-started, failure to comply with this requirement will result in the disqualification of the relevant driver from the race results. 
@@ -368,7 +370,7 @@ A penalty under Article 38.3(d) will be imposed on any driver who does not use w
 a) From the time at which each competitor receives fitted tyres from the Supplier at or before an Event these may not be used on any rig, simulator or vehicle, other than the F1 car for which they were intended. 
 b) Tyres supplied to any competitor at any time may not be used on any rig or vehicle (other than an F1 car on an F1 approved track, at the exclusion of any kind of road simulator), either Team owned or rented, providing measurements of forces and/or moments produced by a rotating full size F1 tyre, other than uniquely vertical forces, tyre rolling resistance and aerodynamic drag. 
 c) Tyres may be used on a test rig providing forces control and monitoring by F1 rim manufacturers for the sole purpose of proof testing their products. 
-**25) SCRUTINEERING** 
+### 25) SCRUTINEERING 
 **25.1** Each competitor will be required to carry out initial scrutineering of his cars and submit the duly completed declaration no later than 18 hours before the start of P1. 
 The declaration form template may be found in the Appendix to these Sporting Regulations. 
 **25.2** Unless a waiver is granted by the stewards, competitors who do not keep to these time limits will not be allowed to take part in the Event. 
@@ -391,16 +393,16 @@ i) The stewards are informed which cars and drivers each team intends to use in 
 ii) No more than four drivers are used in any one session. 
 iii) They carry the race number that has been allocated to them. 
 iv) They use the engine and tyres which are allocated to the nominated driver. 
-v) They are in possession of a Super Licence. 
+v) They are in possession of a Super Licence or Friday Super Licence. 
 c) If one of the team’s nominated drivers is unable to drive at some stage after the end of initial scrutineering (18 hours before the scheduled start of P1), and the stewards consent to a change of driver, the replacement driver must use the engine, gearbox and tyres which were allocated to the original driver (see Articles 23.3, 23.5 and 24.4). 
-**27) DRIVING** 
+### 27) DRIVING 
 **27.1** The driver must drive the car alone and unaided. 
 **27.2** Drivers must observe the provisions of the Code relating to driving behaviour on circuits at all times. 
 **27.3** Drivers must make every reasonable effort to use the track at all times and may not deliberately leave the track without a justifiable reason. 
 Drivers will be judged to have left the track if no part of the car remains in contact with it and, for the avoidance of doubt, any white lines defining the track edges are considered to be part of the track but the kerbs are not. 
 Should a car leave the track the driver may re-join, however, this may only be done when it is safe to do so and without gaining any lasting advantage. At the absolute discretion of the race director a driver may be given the opportunity to give back the whole of any advantage he gained by leaving the track. 
 **27.4** At no time may a car be driven unnecessarily slowly, erratically or in a manner which could be deemed potentially dangerous to other drivers or any other person. 
-**28) PIT ENTRY, PIT LANE AND PIT EXIT** 
+### 28) PIT ENTRY, PIT LANE AND PIT EXIT 
 **28.1** The section of track between the first safety car line and the beginning of the pit lane will be designated the “pit entry”. 
 **28.2** The section of track between the end of the pit lane and the second safety car line will be designated the “pit exit”. 
 **28.3** At no time may a car be reversed in the pit lane under its own power. 
@@ -410,7 +412,7 @@ Other than when cars are at the end of the pit lane under Articles 36.2 and 41, 
 **28.6** No powered device may be used to lift any part of a car in the pit lane during a race. 
 **28.7** Unless a car is pushed from the grid at any time during the start procedure, cars may only be driven from the team’s designated garage area to the end of the pit lane. 
 Any car(s) driven to the end of the pit lane prior to the start or re-start of a practice session must form up in a line in the fast lane and leave in the order they got there unless another car is unduly delayed. 
-**28.8** With the exception of the reconnaissance laps permitted by Article 36.1, any driver that is required to start the race from the pit lane may not drive his car from his team’s designated garage area until 20 minutes before the scheduled start of the formation lap and must stop in a line in the fast lane. 
+**28.8** With the exception of the reconnaissance laps permitted by Article 36.1, any driver that is required to start the race from the pit lane may not drive his car from his team’s designated garage area until 30 minutes before the scheduled start of the formation lap and must stop in a line in the fast lane. 
 Under these circumstances working in the fast lane will be permitted but any such work is restricted to : 
 a) Starting the engine and any directly associated preparation. 
 b) The fitting or removal of permitted cooling and heating devices. 
@@ -429,11 +431,10 @@ c) If a car is deemed to have been released in an unsafe condition during a race
 d) An additional penalty will be imposed on any driver who, in the opinion of the stewards, continues to drive a car knowing it to have been released in an unsafe condition. 
 In all of the above cases, a car will be deemed to have been released either when it has been driven out of its designated garage area (when leaving from the garage) or after it has completely cleared its pit stop position following a pit stop. 
 **28.14** Under exceptional circumstances the race director may ask for the pit entry to be closed during the race for safety reasons. At such times drivers may only enter the pit lane in order for essential and entirely evident repairs to be carried out to the car. A penalty under Article 38.3(d) will be imposed on any driver who, in the opinion of the stewards, entered the pit lane for any other reason whilst it was closed. 
-**29) WEIGHING** 
+### 29) WEIGHING 
 **29.1** a) After any free practice session or during the qualifying practice session cars will be weighed as follows : 
 i) When signalled to do so the driver will proceed directly to the FIA garage and stop his engine. 
-A reprimand will be imposed on any driver who fails to stop when signalled to do so, provided the car is then brought back to the FIA garage without delay and that the FIA technical delegate is satisfied the car has been brought back in exactly the same condition it was in when it was driven into the pits. 
-Any driver who fails to stop when asked to do so, and then fails to bring the car back to the FIA garage, or if work is carried out on the car before it is returned to the FIA garage, will be required to start the race from the pit lane. 
+Any driver who fails to stop when asked to do so, and then fails to bring the car back to the FIA garage, or if work is carried out on the car before it is returned to the FIA garage, will be referred to the stewards. 
 ii) At the end of the qualifying session all cars which took part in Q3 will be weighed. If a driver wishes to leave his car before it is weighed he must ask the technical delegate to weigh him in order that this weight may be added to that of the car. 
 iii) If a car stops on the circuit during the qualifying session and the driver leaves the car, he must go to the FIA garage immediately on his return to the pit lane in order for his weight to be established. 
 b) After the race any classified car may be weighed. If a driver wishes to leave his car before it is weighed he must ask the technical delegate to weigh him in order that this weight may be added to that of the car. 
@@ -452,11 +453,12 @@ b) An assistant equipped with a suitable fire extinguisher of appropriate capaci
 c) All cars, refuelling equipment and containers must be suitably grounded where necessary. 
 d) Any powered pumping system used to transfer fuel must be operated by a non-latching switch or be turned off automatically if the operator leaves. 
 **30.5** No car is permitted to consume more than 110kg of fuel, from the time at which the signal to start the race is given to the time each car crosses the Line after the end-of-race signal has been given. Other than in cases of force majeure (accepted as such by the stewards), any driver exceeding this limit will be disqualified from the race results. 
-**31) PRACTICE SESSIONS** 
+### 31) PRACTICE SESSIONS 
 **31.1** No driver may start in the race without taking part in at least one practice session. 
 **31.2** During all practices there will be a green and a red light at the end of the pit lane. Cars may only leave the pit lane when the green light is on. Additionally, a blue flag and/or a flashing blue light will be shown in the pit exit to warn drivers leaving the pit lane if cars are approaching on the track. 
 **31.3** Unless written permission has been given by the FIA to do otherwise, the circuit may only be used for purposes other than the Event after the last practice session on each day of practice and on the day of the race no less than one hour before the end of the pit lane is opened to allow cars to cover a reconnaissance lap. 
-**31.4** In the event of a driving infringement during any practice session the Stewards may delete a driver’s lap time (or lap times) or drop the driver such number of grid positions as they consider appropriate. Unless it is completely clear that a driver committed a driving infringement any such incident will normally be investigated after the relevant session. 
+**31.4** In the event of a driving infringement during any practice session the Stewards may delete a driver’s lap time (or lap times) or drop the driver such number of grid positions as they 
+ consider appropriate. Unless it is completely clear that a driver committed a driving infringement any such incident will normally be investigated after the relevant session. 
 Where appropriate, regard will also be given to the provisions of Article 18.1. 
 **31.5** Any driver taking part in any practice session who, in the opinion of the stewards, stops unnecessarily on the circuit or unnecessarily impedes another driver shall be subject to the penalties referred to in Article 31.4. 
 **31.6** Should it become necessary to stop any practice session because the circuit is blocked by an accident or because weather or other conditions make it dangerous to continue, the clerk of the course will order red flags to be shown at all marshal posts and the abort lights to be shown at the Line. 
@@ -468,7 +470,7 @@ Should one or more sessions be thus interrupted, no protest can be accepted as t
 ### 32) FREE PRACTICE 
 **32.1** a) Two free practice sessions (P1 and P2), each lasting one and a half hours and separated by at least two and a half hours, will take place on the second day of the Event. 
 b) A further free practice session (P3), lasting one hour and starting no less than eighteen and a half hours after the end of P2, will take place the day before the race. 
-**33) QUALIFYING PRACTICE** 
+### 33) QUALIFYING PRACTICE 
 **33.1** The qualifying practice session will take place on the day before the race and will start no less than two hours after the end of P3. 
 The session will be run as follows : 
 a) For the first eighteen minutes of the session (Q1) all cars will be permitted on the track and at the end of this period the slowest five cars will be prohibited from taking any further part in the session. Lap times achieved by the fifteen remaining cars will then be deleted. 
@@ -479,7 +481,7 @@ The above procedure is based upon 20 cars being officially eligible to take part
 **33.2** Any driver whose car stops on the circuit during the qualifying session will not be permitted to take any further part in the session. 
 **33.3** At the end of qualifying practice the times achieved by each driver will be officially published. 
 **33.4** An AOT, as defined in F1 Technical Regulations, must be empty during the complete qualifying practice session. 
-**34) PRE-RACE PARC FERMÉ** 
+### 34) PRE-RACE PARC FERMÉ 
 **34.1** Every team must provide the FIA technical delegate with a suspension set-up sheet for both of their cars before each of them leaves the pit lane for the first time during qualifying practice session. 
 **34.2** Each car will be deemed to be in parc fermé from the time at which it leaves the pit lane for the first time during qualifying practice until the start of the race. Any car which fails to leave the pit lane during qualifying practice will be deemed to be in parc fermé at the end of Q1. 
 Between these times, other than when cars are sealed overnight in accordance with 34.4 below, the following work may be carried out : 
@@ -490,27 +492,25 @@ d) Spark plugs may be removed in order to carry out an internal engine inspectio
 e) Permitted heating or cooling devices may be fitted. 
 f) A jump battery may be connected and on board electrical units may be freely accessed via a physical connection to the car. 
 g) Charging and / or discharging of the ERS energy storage devices. 
-h) Removal of the ERS energy storage devices which, once marked by the FIA technical delegate, may be retained overnight by the team. 
-i) The main electrical battery and radio batteries may be changed. 
-j) The brake system may be bled. 
-k) Engine oil may be drained. 
-l) Compressed gases may be drained or added. 
-m) Fluids with a specific gravity less than 1.1 may be drained and/or replenished, however, fluids used for replenishment must conform to the same specification as the original fluid. 
-n) The aerodynamic set up of the front wing may be adjusted using the existing parts. No parts may be added, removed or replaced. 
-o) If the FIA technical delegate is satisfied that changes in climatic conditions necessitate alterations to the specification of a car, changes may be made to the air ducts around the front and rear brakes and radiator ducts. These changes may be made at any time after all teams have been sent the message “CHANGE IN CLIMATIC CONDITIONS” via the official messaging system. From this point onwards the choice of air ducts around the front and rear brakes and radiator ducts is free and pitot tubes may be covered or uncovered, subject always to compliance with the relevant Technical Regulations. 
-p) Bodywork (excluding radiators) may be removed and/or cleaned. 
-q) Cosmetic changes may be made to the bodywork and tape may be added. 
-r) Any part of the car may be cleaned. 
-s) On board cameras, marshalling system components, timing transponders and any associated equipment may be removed, refitted or checked. 
-t) Any work required by the FIA technical delegate. 
-u) Changes to improve the driver's comfort. In this context anything other than the adjustment of mirrors, seat belts and pedals may only be carried out with the specific permission of the FIA technical delegate. 
+h) The brake system may be bled. 
+i) Engine oil may be drained. 
+j) Compressed gases may be drained or added. 
+k) Fluids may be drained and/or replenished, however, fluids used for replenishment must conform to the same specification as the original fluid. 
+l) The aerodynamic set up of the front wing may be adjusted using the existing parts. No parts may be added, removed or replaced. 
+m) If the FIA technical delegate is satisfied that changes in climatic conditions necessitate alterations to the specification of a car, changes may be made to the air ducts around the front and rear brakes and radiator ducts. These changes may be made at any time after all teams have been sent the message “CHANGE IN CLIMATIC CONDITIONS” via the official messaging system. From this point onwards the choice of air ducts around the front and rear brakes and radiator ducts is free and pitot tubes may be covered or uncovered, subject always to compliance with the relevant Technical Regulations. 
+n) Bodywork (excluding radiators) may be removed and/or cleaned. 
+o) Cosmetic changes may be made to the bodywork and tape may be added. 
+p) Any part of the car may be cleaned. 
+q) On board cameras, marshalling system components, timing transponders and any associated equipment may be removed, refitted or checked. 
+r) Any work required by the FIA technical delegate. 
+s) Changes to improve the driver's comfort. In this context anything other than the adjustment of mirrors, seat belts and pedals may only be carried out with the specific permission of the FIA technical delegate. 
 Should ambient temperature change significantly, teams will be requested to change the head padding required by Article 14.6.1-6 of the Technical Regulations via the official messaging system. 
 The addition or removal of padding (or similar material) is also permitted but may only be carried out under supervision and, if required by the FIA technical delegate, must be removed before the post-race weighing procedure. 
-v) Drinking fluid for the driver may be added at any time, however, the capacity of the container for any such fluid must not exceed 1.5 litres. 
-w) Repair of genuine accident damage. 
-x) Any parts which are removed from the car in order to carry out any work specifically permitted above, or any parts removed to carry out essential safety checks, must remain close to it and, at all times, be visible to the scrutineer assigned to the relevant car. 
+t) Drinking fluid for the driver may be added at any time, however, the capacity of the container for any such fluid must not exceed 1.5 litres. 
+u) Repair of genuine accident damage. 
+v) Any parts which are removed from the car in order to carry out any work specifically permitted above, or any parts removed to carry out essential safety checks, must remain close to it and, at all times, be visible to the scrutineer assigned to the relevant car. 
 Furthermore, any parts removed from the car in order to carry out any such work must be refitted before the car leaves the pit lane. 
-Any work not listed above may only be undertaken with the approval of the FIA technical delegate following a written request from the team concerned. It must be clear that any replacement part a team wishes to fit is similar in design, mass, inertia and function to the original. Any parts removed will be retained by the FIA. 
+Any work not listed above may only be undertaken with the approval of the FIA technical delegate following a written request from the team concerned. It must be clear that any replacement part a team wishes to fit is the same in design and similar in mass, inertia and function to the original. Any parts removed will be retained by the FIA. 
 However, if a team wishes to change a part during the qualifying session, between reconnaissance laps and/or on the grid before the start of the race, this may be done without first seeking the permission of the technical delegate, provided it is reasonable for the relevant team to believe permission would be given if there was time to ask and the broken or damaged part remains in full view of the scrutineer assigned to the car at all times. 
 **34.3** At the end of the qualifying practice at least six cars will be chosen at random to undergo further checks, once informed their car has been selected the team concerned must take the car to the parc fermé immediately. 
 **34.4** Within three and a half hours of the end of the qualifying practice session all cars used during the session (or which were intended for use but failed to leave the pit lane) must be covered and ready for FIA seals to be applied in order to ensure that they remain secure until the following day. For marketing purposes this deadline may be extended for one car from each competitor for a maximum of two hours by prior arrangement with the FIA technical delegate. 
@@ -520,20 +520,19 @@ Whilst cars are covered overnight they may be fitted with devices to keep them w
 **34.6** A competitor may not modify any part on the car or make changes to the set-up of the suspension whilst the car is being held under parc fermé conditions. In the case of a breach of this Article the relevant driver must start the race from the pit lane and follow the procedures laid out in Article 36.2. 
 In order that the scrutineers may be completely satisfied that no alterations have been made to the suspension systems or aerodynamic configuration of the car (with the exception of the front wing) whilst in pre-race parc fermé, it must be clear from physical inspection that changes cannot be made without the use of tools. 
 **34.7** One scrutineer will be allocated to each car for the purpose of ensuring that no unauthorised work is carried out whilst cars are being held under parc fermé conditions. 
-**34.8** A list of parts replaced with the specific agreement of the FIA technical delegate whilst cars are being held under parc fermé conditions will be published and distributed to all teams prior to the race. 
-**34.9** The mass of oil contained in each oil tank, with the exception of the main oil tank, must be declared to the FIA one hour before the start of the race. 
-**35) THE GRID** 
-**35.1** Unless the track was declared wet by the race director, any driver eliminated during Q1 whose best qualifying lap exceeds 107% of the fastest time set during that session, or who fails to set a time, will not be allowed to take part in the race. Under exceptional circumstances however, which may include setting a suitable lap time in a free practice session, the stewards may permit the car to start the race. 
-Any driver accepted in this manner will be placed at the back of the starting grid after any other penalties have been applied, and behind any driver penalised under Article 23.3(b). 
-Should there be more than one driver accepted in this manner they will be arranged on the grid in the order they were classified in P3. 
-**35.2** a) The grid will be drawn up as follows : 
-i) The last five positions will be occupied by the cars eliminated during Q1, the fastest in 16th position. 
-ii) The next five positions will be occupied by the cars eliminated during Q2, the fastest in 11th position. 
- iii) The top ten positions will be occupied by the cars which took part in Q3, the fastest from the position on the grid which was the pole position in the previous year or, on a new circuit, has been designated as such by the FIA safety delegate. If two or more drivers set identical times during Q1, Q2 or Q3 priority will be given to the one who set it first. If more than 20 cars are entered in the Championship appropriate amendments will be made to the above in accordance with Article 33.1. b) If more than one driver fails to set a time during Q2 or Q3 they will be arranged in the following order : 
+ 34.8 A list of parts replaced with the specific agreement of the FIA technical delegate whilst cars are being held under parc fermé conditions will be published and distributed to all teams prior to the race. 34.9 The mass of oil contained in each oil tank, with the exception of the main oil tank, must be declared to the FIA one hour before the start of the race. 
+### 35) THE GRID 
+ 35.1 Unless the track was declared wet by the race director, any driver eliminated during Q1 whose best qualifying lap exceeds 107% of the fastest time set during that session, or who fails to set a time, will not be allowed to take part in the race. Under exceptional circumstances however, which may include setting a suitable lap time in a free practice session, the stewards may permit the car to start the race. Any driver accepted in this manner will be placed at the back of the starting grid after any other penalties have been applied, and behind any driver penalised under Article 23.3(b). Should there be more than one driver accepted in this manner they will be arranged on the grid in the order they were classified in P3. 35.2 a) The grid will be drawn up as follows : i) The last five positions will be occupied by the cars eliminated during Q1, the fastest in 16th position. ii) The next five positions will be occupied by the cars eliminated during Q2, the fastest in 11th position. iii) The top ten positions will be occupied by the cars which took part in Q3, the fastest from the position on the grid which was the pole position in the previous year or, on a new circuit, has been designated as such by the FIA safety delegate. If two or more drivers set identical times during Q1, Q2 or Q3 priority will be given to the one who set it first. If more than 20 cars are entered in the Championship appropriate amendments will be made to the above in accordance with Article 33.1. b) If more than one driver fails to set a time during Q2 or Q3 they will be arranged in the following order : 
 i) Any driver who attempted to set a qualifying time by starting a flying lap. 
 ii) Any driver who failed to start a flying lap. 
 iii) Any driver who failed to leave the pits during the period. 
- c) Once the grid has been established in accordance with a) and b) above, grid position penalties will be applied to the drivers in question in the order the offences were committed. If, following qualifying, more than one driver incurs a penalty under Article 23.3(e) or Article 23.5(a) preference will be given to the driver whose team first informed the technical delegate that a power unit or gearbox change will be carried out. d) Any driver required to start the race from the back of the grid after incurring a penalty under Article 23.3(b) will be arranged on the grid behind any driver penalised under c) above. If more than one driver is required to start the race from the back of the grid they will be arranged in qualifying order. e) Any driver who incurs a penalty under Article 23.3(e) or Article 23.5(a) will take precedence over any driver whose qualifying times have been deleted for any reason. If more than one driver falls into a single category in b) or e) above they will be arranged on the grid in the order they were classified in the previous period of qualifying or, in the case of Q1, the order they were classified in P3. 35.3 The starting grid will be published no less than four hours before the start of the formation lap. Any competitor whose car(s) is (are) unable to start for any reason whatsoever (or who has good reason to believe that their car(s) will not be ready to start) must inform the stewards accordingly at the earliest opportunity and, in any event, no later than one hour and fifteen minutes before the start of the formation lap. If one or more cars are withdrawn the grid will be closed up accordingly. The final starting grid will be published one hour before the start of the formation lap. 35.4 The grid will be in a staggered 1 x 1 formation and the rows on the grid will be separated by 16 metres. 36) STARTING PROCEDURE 36.1 40 minutes before the start of the formation lap the pit exit will be opened and all cars, including any that are required to start the race from the pit lane, will be permitted to leave the pit lane to cover a reconnaissance lap. Should any driver wish to cover more than one reconnaissance lap, this must be done by driving down the pit lane at greatly reduced speed between each of the laps. If a driver stops in his pit between reconnaissance laps the car may only re-join the track by being driven from the driver’s garage and not from his pit stop position. At the end of these laps all cars starting the race from the grid should stop on the grid in starting order with their engines stopped. All drivers going to the pit exit at this time must do so at a constant speed and with constant throttle. This applies over the whole of the pit lane whether a driver is going to the pit exit from his garage or travelling through the pit lane between reconnaissance laps. 
+ c) Once the grid has been established in accordance with a) and b) above, grid position penalties will be applied to the drivers in question in the order the offences were committed. If, following qualifying, more than one driver incurs a penalty under Article 23.3(e) or Article 23.5(a) preference will be given to the driver whose team first informed the technical delegate that a power unit or gearbox change will be carried out. d) Any driver required to start the race from the back of the grid after incurring a penalty under Article 23.3(b) will be arranged on the grid behind any driver penalised under c) above. If more than one driver is required to start the race from the back of the grid they will be arranged in qualifying order. e) Any driver who incurs a penalty under Article 23.3(e) or Article 23.5(a) will take precedence over any driver whose qualifying times have been deleted for any reason. If more than one driver falls into a single category in b) or e) above they will be arranged on the grid in the order they were classified in the previous period of qualifying or, in the case of Q1, the order they were classified in P3. 
+**35.3** The starting grid will be published no less than four hours before the start of the formation lap. Any competitor whose car(s) is (are) unable to start for any reason whatsoever (or who has good reason to believe that their car(s) will not be ready to start) must inform the stewards accordingly at the earliest opportunity and, in any event, no later than one hour and fifteen minutes before the start of the formation lap. If one or more cars are withdrawn the grid will be closed up accordingly. The final starting grid will be published one hour before the start of the formation lap. 
+**35.4** The grid will be in a staggered 1 x 1 formation and the rows on the grid will be separated by 16 metres. 
+### 36) STARTING PROCEDURE 
+**36.1** 40 minutes before the start of the formation lap the pit exit will be opened and all cars, including any that are required to start the race from the pit lane, will be permitted to leave the pit lane to cover a reconnaissance lap. Should any driver wish to cover more than one reconnaissance lap, this must be done by driving down the pit lane at greatly reduced speed between each of the laps. If a driver stops in his pit between reconnaissance laps the car may only re-join the track by being driven from the driver’s garage and not from his pit stop position. 
+At the end of these laps all cars starting the race from the grid should stop on the grid in starting order with their engines stopped. 
+All drivers going to the pit exit at this time must do so at a constant speed and with constant throttle. This applies over the whole of the pit lane whether a driver is going to the pit exit from his garage or travelling through the pit lane between reconnaissance laps. 
 Any car which does not complete a reconnaissance lap and reach the grid under its own power will not be permitted to start the race from the grid. 
 **36.2** 32 minutes before the scheduled start of the formation lap, a warning signal will be given indicating that the end of the pit lane will be closed in two minutes. 
 30 minutes before the scheduled start of the formation lap the end of the pit lane will be closed and a second warning signal will be given. Any car which is still in the pit lane can start from the end of the pit lane provided it got there under its own power. If more than one car is affected they must line up in the order in which they qualified. However, any car reaching the end of the pit lane after the five minute signal must start behind any car already at the pit exit. 
@@ -556,7 +555,7 @@ There will be a standing start, the signal being given by means of lights activa
 Once all the cars have come to a halt the five second light will appear followed by the four, three, two and one second lights. At any time after the one-second light appears, the race will be started by extinguishing all red lights. 
 **36.10** Unless specifically authorised by the FIA safety delegate, during the start of a race the pit wall must be kept free of all persons with the exception of the team personnel permitted under Article 22.13, officials and fire marshals. 
 **36.11** If, after returning to the starting grid at the end of the formation lap a problem arises, the following procedures shall apply : 
-a) If a car develops a problem that could endanger the start the driver must immediately raise his hands above his head and the marshal responsible for that row must immediately wave a yellow flag. If the race director decides the start should be aborted the green lights will be illuminated two seconds after the abort lights are switched on, a board saying “EXTRA FORMATION LAP” will be displayed and all cars able to do so must complete a further formation lap whilst the car which developed the problem is moved into the pit lane. 
+a) If a car develops a problem that could endanger the start the driver must immediately raise his hands above his head and the marshal responsible for that row must immediately wave a yellow flag. If the race director decides the start should be aborted the green lights will be illuminated two seconds after the abort lights are switched on, a board saying “EXTRA FORMATION LAP” will be displayed and all teams will be informed via the official messaging system. All cars able to do so must complete a further formation lap whilst the car which developed the problem is moved into the pit lane. 
 When leaving the grid to complete the extra formation lap all drivers must respect the pit lane speed limit until they pass pole position. 
 The team may then attempt to rectify the problem and, if successful, the car may then start from the end of the pit lane. Should there be more than one car involved their starting order will be determined by the order in which they reached the end of the pit lane. 
 Every time this happens the race will be shortened by one lap. 
@@ -569,7 +568,7 @@ ii) If the race has been started the marshals alongside the grid will wave their
 iii) If, after the start, a car is immobilised on the starting grid, it shall be the duty of the marshals to push it into the pit lane by the fastest route. Any driver being pushed from the grid may not attempt to start the car. 
 iv) Once the car is in the pit lane his mechanics may attempt to start it, if successful the driver may re-join the race. The driver and mechanics must follow the instructions of the track marshals at all times during such a procedure. 
 **36.12** Should Article 36.11 apply, the race will nevertheless count for the Championship no matter how often the procedure is repeated, or how much the race is shortened as a result. 
-**36.13** Either of the penalties under Articles 38.3c) or d) will be imposed on any driver who is judged to have : 
+**36.13** Any of the penalties under Articles 38.3 a), b), or c) will be imposed on any driver who is judged to have : 
 a) Moved before the start signal is given, such judgement being made by an FIA approved and supplied transponder fitted to each car, or ; 
 b) Positioned his car on the starting grid in such a way that the transponder is unable to detect the moment at which the car first moved from its grid position after the start signal is given. 
 **36.14** Only in the following cases will any variation in the start procedure be allowed : 
@@ -593,10 +592,11 @@ If, after several formation laps behind the safety car, track conditions are con
 At this point the first car in line behind the safety car may dictate the pace and, if necessary, fall more than ten car lengths behind it. 
 As the safety car is approaching the pit entry the FIA light panels will be extinguished and replaced by waved green flags with green lights at the Line. 
 No driver may overtake another car on the track until he passes the Line (see Article 5.3) for the first time after the safety car has returned to the pits. The race will be deemed to have started when the leading car crosses the Line after the safety car has returned to the pits. 
-If, after several formation laps behind the safety car, track conditions are considered unsuitable to start the race, the message “START PROCEDURE SUSPENDED” will be sent to all teams via the official messaging system and all cars must enter the pit lane behind the safety car. The procedures described in Articles 41 and 42 must then be followed and there will be no standing start. 
-**37) THE RACE** 
+If, after several formation laps behind the safety car, track conditions are considered unsuitable to start the race, the message “START PROCEDURE SUSPENDED” will be sent to all teams via the official messaging system and all cars must enter the pit lane behind 
+ the safety car. The procedures described in Articles 41 and 42 must then be followed and there will be no standing start. 
+### 37) THE RACE 
 **37.1** During the race, drivers leaving the pit lane may only do so when the light at the end of the pit lane is green and on their own responsibility. A marshal with a blue flag and/or a flashing blue light, will also warn the driver if cars are approaching on the track. 
-**38) INCIDENTS DURING THE RACE** 
+### 38) INCIDENTS DURING THE RACE 
 **38.1** The race director may report any on-track incident or suspected breach of these Sporting Regulations or the Code (an “Incident”) to the stewards. After review it shall be at the discretion of the stewards to decide whether or not to proceed with an investigation. 
 The stewards may also investigate an Incident noted by themselves. 
 **38.2** a) It shall be at the discretion of the stewards to decide if any driver involved in an Incident should be penalised. 
@@ -624,13 +624,14 @@ However, unless the driver was already in the pit entry for the purpose of servi
 c) Whilst a car is stationary in the pit lane as a result of incurring a penalty under Articles 38.3(a) or (b) above it may not be worked on until the car has been stationary for the duration of the penalty. 
 d) Whilst a car is stationary in the pit lane as a result of incurring a time penalty under Article 38.3(d) above it may not be worked on. However, if the engine stops any work necessary to re-start it may be carried out after the time penalty period has elapsed. If the team is unable to start the engine the car may then only be worked on in the driver’s garage. 
 e) Any breach or failure to comply with Articles 38.4 (b), (c) or (d) may result in the car being disqualified. 
-**39) SAFETY CAR** 
+### 39) SAFETY CAR 
 **39.1** The FIA safety car will be driven by an FIA appointed driver and will carry an FIA observer capable of recognising all the competing cars who is in permanent radio contact with race control. 
 **39.2** Fifty minutes before the start of the formation lap the safety car will leave the pit lane and take up position at the front of the grid and remain there until the five minute signal is given. At this point (except under Article 36.14(c)) it will cover a whole lap of the circuit and take up position. 
 **39.3** The safety car may be brought into operation to neutralise a race upon the order of the clerk of the course. 
 It will be used only if competitors or officials are in immediate physical danger on or near the track but the circumstances are not such as to necessitate suspending the race. 
 **39.4** When the order is given to deploy the safety car the message "SAFETY CAR DEPLOYED" will be sent to all teams via the official messaging system, all FIA light panels will display “SC” and all marshal's posts will display waved yellow flags and "SC" boards for the duration of the intervention. 
-**39.5** No car may be driven unnecessarily slowly, erratically or in a manner which could be deemed potentially dangerous to other drivers or any other person at any time whilst the safety car is deployed. This will apply whether any such car is being driven on the track, the pit entry or the pit lane. 
+**39.5** No car may be driven unnecessarily slowly, erratically or in a manner which could be deemed potentially dangerous to other drivers or any other person at any time whilst the safety car is 
+ deployed. This will apply whether any such car is being driven on the track, the pit entry or the pit lane. 
 **39.6** The safety car will join the track with its orange lights illuminated and will do so regardless of where the race leader is. 
 **39.7** All competing cars must reduce speed and form up in line behind the safety car no more than ten car lengths apart. In order to ensure that drivers reduce speed sufficiently, from the time at which all teams have been sent the “SAFETY CAR DEPLOYED” message via the official messaging system until the time that each car crosses the first safety car line for the second time, drivers must stay above the minimum time set by the FIA ECU at least once in each marshalling sector and at both the first and second safety car lines (a marshalling sector is defined as the section of track between each of the FIA light panels). 
 The stewards may impose either of the penalties under Article 38.3a), b), c) or d) on any driver who fails to stay above the minimum time as required by the above. 
@@ -659,7 +660,7 @@ In order to avoid the likelihood of accidents before the safety car returns to t
 As the safety car is approaching the pit entry the SC boards will be withdrawn and, other than on the last lap of the race, as the leader approaches the Line the yellow flags will be withdrawn and a green flag will be displayed at the Line. 
 **39.14** Each lap completed while the safety car is deployed will be counted as a race lap. However, if the procedure set out in Article 36.14(c) is followed Article 5.3(c) will apply. 
 **39.15** If the safety car is still deployed at the beginning of the last lap, or is deployed during the last lap, it will enter the pit lane at the end of the lap and the cars will take the end-of-race signal as normal without overtaking. 
-**40) VIRTUAL SAFETY CAR (VSC)** 
+### 40) VIRTUAL SAFETY CAR (VSC) 
 **40.1** The VSC procedure may be initiated to neutralise a practice session or a race upon the order of the clerk of the course. 
 It will normally be used when double waved yellow flags are needed on any section of track and competitors or officials may be in danger, but the circumstances are not such as to warrant use of the safety car itself. 
 **40.2** When the order is given to initiate the VSC procedure a message "VSC DEPLOYED" will be sent to all teams via the official messaging system and all FIA light panels will display “VSC”. 
@@ -727,8 +728,8 @@ No driver may overtake another car on the track until he passes the Line (see Ar
 Each lap completed while the safety car is deployed will be counted as a race lap. 
 **42.10** If, after several laps behind the safety car, track conditions are considered unsuitable to resume racing at all, the message “RE-START PROCEDURE SUSPENDED” will be sent to all teams via the official messaging system and all cars must enter the pit lane behind the safety car. The procedures set out in Article 41 and Articles 42.1-42.7 must then be followed and there will be no standing start. 
 **42.11** If the race cannot be resumed the results will be taken at the end of the penultimate lap before the lap during which the signal to suspend the race was given. 
-**43) FINISH** 
-**43.1** A chequered light panel will be the end-of-race signal and will be shown at the Line as soon as the leading car has covered the full race distance in accordance with Article 5.3. 
+### 43) FINISH 
+**43.1** A chequered flag will be the end-of-race signal and will be shown at the Line as soon as the leading car has covered the full race distance in accordance with Article 5.3. 
 **43.2** Should for any reason the end-of-race signal be given before the leading car completes the scheduled number of laps, or the prescribed time has been completed, the race will be deemed to have finished when the leading car last crossed the Line before the signal was given. 
 Should the end-ofrace signal be delayed for any reason, the race will be deemed to have finished when it should have finished. 
 **43.3** After receiving the end-of-race signal all cars must proceed on the circuit directly to the postrace parc fermé without any unnecessary delay, without receiving any object whatsoever and without any assistance (except that of the marshals if necessary). 
@@ -741,11 +742,11 @@ Any classified car which cannot reach the post-race parc fermé under its own po
 **44.1** Only those officials charged with supervision may enter the post-race parc fermé. No intervention of any kind is allowed there unless authorised by such officials. 
 **44.2** When the parc fermé is in use, parc fermé regulations will apply in the area between the Line and the parc fermé entrance. 
 **44.3** The parc fermé shall be secured such that no unauthorised persons can gain access to it. 
-**45) CLASSIFICATION** 
+### 45) CLASSIFICATION 
 **45.1** The car placed first will be the one having covered the scheduled distance in the shortest time, or, where appropriate, passed the Line in the lead at the end of two hours (or more under Article 5.3). All cars will be classified taking into account the number of complete laps they have covered, and for those which have completed the same number of laps, the order in which they crossed the Line. 
 **45.2** Cars having covered less than 90% of the number of laps covered by the winner (rounded down to the nearest whole number of laps), will not be classified. 
 **45.3** The official classification will be published after the race. It will be the only valid result subject to any amendments which may be made under the Code and these Sporting Regulations. 
-**46) PODIUM CEREMONY AND POST EVENT PRESS CONFERENCE** 
+### 46) PODIUM CEREMONY AND POST EVENT PRESS CONFERENCE 
 **46.1** The drivers finishing the race in 1st, 2nd and 3rd positions and a representative of the winning constructor must attend the prize-giving ceremony on the podium and abide by the podium procedure set out in Appendix 3 (except Monaco); and immediately thereafter make themselves available for a period of one hour and 30 minutes for the purpose of television unilateral interviews and the press conference in the media centre. 
 ### APPENDIX 1 
 ### INFORMATION REQUIRED BY THE FIA 90 DAYS BEFORE AN EVENT 
@@ -783,63 +784,90 @@ Any classified car which cannot reach the post-race parc fermé under its own po
 ### 4. PERMANENT STARTER. 
 ### 5. MEDICAL DELEGATE. 
 ### 6. TECHNICAL DELEGATE. 
-### 7. PRESS DELEGATE. 
+### 7. MEDIA DELEGATE. 
 ### 8. STEWARD'S ADVISER. 
 ### AND, IF APPROPRIATE. 
 ### 9. A REPRESENTATIVE OF THE PRESIDENT OF THE FIA. 
-### 10. AN OBSERVER. 
-### 11. A SAFETY CAR DRIVER. 
-### 12. A MEDICAL CAR DRIVER. 
+### 10. A DEPUTY RACE DIRECTOR 
+### 11. AN OBSERVER. 
+### 12. A SAFETY CAR DRIVER. 
+### 13. A MEDICAL CAR DRIVER. 
 ### APPENDIX 2 
 ### FEDERATION INTERNATIONALE DE L'AUTOMOBILE 
 ### ENTRY FORM FOR THE FIA FORMULA ONE WORLD CHAMPIONSHIP 
+Entry for the ........................... FIA Formula One World Championship 
 ### THE APPLICANT 
-Full Company Name 
-Country of Incorporation 
-Registration Number 
-Date of Incorporation 
-Country of Residence 
-Registered Office 
-Trading Address 
-Tel 
-Fax 
-E-mail 
-Directors 
-Team Principal 
-Team Manager 
+Full company name .................................................................................................... 
+Country of incorporation .................................................................................................... 
+Registration number .................................................................................................... 
+Date of incorporation .................................................................................................... 
+Country of residence .................................................................................................... 
+Registered office .................................................................................................... 
+.................................................................................................... 
+.................................................................................................... 
+.................................................................................................... 
+Trading Address ............................................................................................................. 
+Tel ............................................................................................................ 
+Fax ............................................................................................................ 
+E-mail ............................................................................................................ 
+ Directors ............................................................................................................ 
+Team Principal ......................................................................................................... 
+Team Manager ......................................................................................................... 
 Authorised Representatives with sole power to bind the company 
-Title 
-Title 
-Title 
+Title ............................................................................................................ 
+Title ............................................................................................................ 
+Title ............................................................................................................ 
 ### CONSTRUCTOR'S DETAILS OF ENTRY 
-National Competitor Licence 
-Issued By 
-Number 
-Team Name 
+National Competitor Licence ................................................................................. 
+Issued By ............................................................................................................ 
+Number ............................................................................................................ 
+Team Name ............................................................................................................ 
 (Which must include the name of the chassis) 
-We hereby apply to enter the [ ] FIA Formula One World Championship and we undertake to participate in each and every Event : 
-i) With the make of the car referred to below which we nominate for the purpose of Article 6.2 of the Sporting Regulations 
-Name of the Chassis 
-Make of the Engine 
+We hereby apply to enter the .................. FIA Formula One World Championship and we undertake to participate in each and every Event: 
+i) With the make of the car referred to below which we nominate for the purpose of Article 8.2 c) & d) of the Sporting Regulations 
+Name of the Chassis .............................................................................. 
+Make of the Engine .............................................................................. 
 ii) With the drivers referred to below which we nominate for the purpose of Articles 8.2e) & 26.1 of the Sporting Regulations 
-Driver of the first car [or*] 
-Licence Number Issued By 
-Driver of the second car [or*] 
-Licence Number Issued By 
-(tick only if applicable) 
+Driver of the first car [or*] ................................................................ 
+Licence Number ............................................ Issued By .................................................................. 
+Driver of the second car [or*] ................................................................ 
+ Licence Number ............................................ Issued By .................................................................. (tick only if applicable) 
 [ ]* We wish to nominate the name of the driver of the first car subsequent to this application. For this purpose we expressly agree to be bound by the provisions of Article 8.2(e) of the Sporting Regulations. 
 [ ]* We wish to nominate the name of the driver of the second car subsequent to this application. For this purpose we expressly agree to be bound by the provisions of Article 8.2(e) of the Sporting Regulations. 
 We confirm that we have read and understand the provisions of the International Sporting Code, the Formula One Technical Regulations and the Formula One Sporting Regulations. We agree to be bound by them (as supplemented or amended) and further we agree on our own behalf and on behalf of everyone associated with our participation in the FIA Formula One World Championship to observe them. 
-We declare that we have examined this Entry Form and that the information given is true, correct and complete and we undertake to pay the entry fee, calculated in accordance with Appendix 7, to the FIA no later than 30 November of the year prior to the year to which this application relates. We understand and agree that any changes must be notified to the FIA in writing within 7 days of such change to allow reappraisal of the entry. 
+We declare that we have examined this Entry Form and that the information given is true, correct and complete and we undertake to pay the entry fee, calculated in accordance with Appendix 7, to the FIA no later than 10 December of the year prior to the year to which this application relates. We understand and agree that any changes must be notified to the FIA in writing within 7 days of such change to allow reappraisal of the entry. 
 ### SIGNED BY (SIGNATURE) 
 ### (PRINT NAME OF THE PERSON SIGNING) 
 Being a person duly authorised to sign for and on behalf of 
 (PRINT FULL NAME OF APPLICANT) 
 Date 
+**We confirm that we have read the Data Protection Notice at the end of this document and made** 
+**this available to the individuals referred to in this document** ☐ 
 ### TO BE COMPLETED BY THE FIA 
 Super Licence Number Driver n°1 
 Super licence Number Driver n°2 
 Date of Acceptance 
+### *********** 
+### DATA PROTECTION NOTICE 
+The security of your personal data is extremely important to the Fédération Internationale de l’Automobile of 8, place de la Concorde, 75008, Paris, France (“ **FIA** ”, “ **us** ”, “ **we** ”, “ **our** ”). You may be aware 
+of the General Data Protection Regulation ((EU) 2016/679) (“ **GDPR** ”), which now requires us to set out the following details regarding how we collect and use your personal data. 
+As part of your team’s entry into the FIA Formula One World Championship (the “ **Championship** ”), you may provide to us, and we may collect from you, certain personal data (as defined in applicable data 
+privacy laws, including the GDPR (“ **Privacy Laws** ”)), including, without limitation the information set out in this form (being your name, contact details and driver’s licence number, as applicable) and certain other 
+information, including biographical information, such as your images. 
+We are the data controller in respect of your personal data and will handle your data in accordance with our obligations under the Privacy Laws. We will use this information solely in connection with administering the Championship and exploiting the rights granted to us pursuant to any separate 
+agreement entered into with your team or otherwise. We are entitled to do so on the basis of our legitimate interests, namely to enable us to operate the Championship and promote and exploit your 
+participation in the same. 
+We may share your personal data with FIA Switzerland in connection with these purposes (Switzerland being recognized by the European Commission as providing adequate levels of protection for data 
+protection). We may also be required to disclose your personal data if we are required to do so by law or 
+pursuant to a binding regulatory request (in such circumstances, such disclosure will at all times be solely to the extent required by law or the applicable regulatory request). 
+We will retain your personal data on our systems only for as long as is strictly necessary for the purposes 
+for which such data was originally collected (as referred to above), and thereafter for such longer period as may be required by law. 
+**Your rights** 
+In certain situations, you are entitled to: (i) request access to your personal data; (ii) request that we correct your personal data; (iii) request that we erase your personal data; (iv) object to processing of your 
+personal data where we are relying on a legitimate interest; (v) request the restriction of processing of your personal data; (vi) request the transfer of your personal data to a third party; or (vii) where you have provided your consent to certain of our processing activities, you may withdraw your consent at any time 
+(but please note that we may continue to process such personal data if we have legitimate legal grounds for doing so). 
+To exercise these rights please contact: dpo@fia.com 
+Please note that you also have a right to complain to the French or Swiss Data Protection Supervisory Authority (respectively, CNIL or FDPIC) if you are concerned about the way we are handling your personal data. 
 ### APPENDIX 3 
 ### PODIUM CEREMONY 
 ### 1. MASTER OF CEREMONIES 
@@ -919,9 +947,9 @@ b) All documents required in Article a) of Appendix 9 of these regulations.
 a) It retains the exclusive right to use the Listed Parts in Formula One so long as it competes in Formula One. 
 b) In the case of the Outsourcing of manufacture such third party shall not be a competitor. 
 c) In the case of the Outsourcing of design, such third party shall not be a competitor or a party that directly or indirectly designs Listed Parts for any competitor. 
-d) If part of an Outsourcing arrangement involves aerodynamic testing by a third party, this must be carried out and reported in accordance with Appendix 8 to these Sporting Regulations. For the avoidance of doubt, any related Restricted Wind Tunnel Testing and Restricted CFD Simulations must take place in the wind tunnel nominated by the relevant competitor in accordance with Paragraph 1.5 of Appendix 8 or using the CFD hardware nominated by the relevant competitor in accordance with Paragraph 2.6 of Appendix 8. Any such Testing or Simulations will be taken into account when assessing the relevant competitor’s compliance with the usage limits defined in Section 3 of Appendix 8. 
+d) If part of an Outsourcing arrangement involves aerodynamic testing by a third party, this must be carried out and reported in accordance with Appendix 8 to these Sporting Regulations. For the avoidance of doubt, any related Restricted Wind Tunnel Testing and Restricted CFD Simulations must take place in the wind tunnel nominated by the relevant competitor in accordance with Paragraph 1.5 of Appendix 8 or using the CFD hardware nominated by the relevant competitor in accordance with Paragraphs 2.6 and 2.7 of Appendix 8. Any such Testing or Simulations will be taken into account when assessing the relevant competitor’s compliance with the usage limits defined in Section 3 of Appendix 8. 
 3. a) A competitor may use non-Listed Parts designed by another competitor, if this is the     case any aerodynamic testing related to the design of such Parts must be carried out     and reported only by the competitor designing them in accordance with Appendix 8 to     these Sporting Regulations. 
-b) In the case of a competitor Outsourcing the design of non-Listed Parts to a third party that is not a competitor, and such arrangement involves aerodynamic testing, this must be carried out and reported in accordance with Appendix 8 to these Sporting Regulations. For the avoidance of doubt, any related Restricted Wind Tunnel Testing and/or Restricted CFD Simulations must take place in the wind tunnel nominated by the relevant competitor in accordance with Paragraph 1.5 of Appendix 8 or using the CFD hardware nominated by the relevant competitor in accordance with Paragraph 2.6 of Appendix 8. Any such Testing or Simulations will be taken into account when assessing the relevant competitor’s compliance with the usage limits defined in Section 3 of Appendix 8. 
+b) In the case of a competitor Outsourcing the design of non-Listed Parts to a third party that is not a competitor, and such arrangement involves aerodynamic testing, this must be carried out and reported in accordance with Appendix 8 to these Sporting Regulations. For the avoidance of doubt, any related Restricted Wind Tunnel Testing and/or Restricted CFD Simulations must take place in the wind tunnel nominated by the relevant competitor in accordance with Paragraph 1.5 of Appendix 8 or using the CFD hardware nominated by the relevant competitor in accordance with Paragraphs 2.6 and 2.7 of Appendix 8. Any such Testing or Simulations will be taken into account when assessing the relevant competitor’s compliance with the usage limits defined in Section 3 of Appendix 8. 
 4. No competitor shall be entitled : 
 a) To pass on or receive any information on Listed Parts (including but not limited to data, designs or drawings) directly to or from another competitor or via an external entity or third party. 
 b) To receive or supply consultancy or any other kind of services from or to another competitor directly or via an external entity or third party in relation to Listed Parts. 
@@ -946,10 +974,10 @@ d) Any agent, contractor (or sub-contractor) or any other person (including any 
  Air ducts as regulated by Articles 11.4, 11.5 and 11.6 of the F1 Technical Regulations 
 ### APPENDIX 7 
 ### ENTRY FEES FOR THE 2020 FIA FORMULA ONE WORLD CHAMPIONSHIP 
-i) The winner of the 2019 World Championship for Constructors will be required to pay a basic fee of US$546,1331 plus US$65531 for each point gained in the 2019 World Championship for Constructors. 
-ii) Every other competitor will be required to pay a basic fee of US$546,1331 plus US$54591 for each point that competitor gained in the 2019 World Championship for Constructors. 
-In both cases the basic fee is due at the time of the application and the remainder by 30 November of the year prior to the year to which this application relates. 
-(^1) Indexed by US CPI Note: the figures above refer to the values that were established for the 2019 Championship. The values for 2020 will be voted by the FIA Annual General Assembly in December 2019 and inserted in the subsequent update to the Sporting Regulations. 
+i) The winner of the 2019 World Championship for Constructors will be required to pay a basic fee of US$556,5091 plus US$6,6771 for each point gained in the 2019 World Championship for Constructors. 
+ii) Every other competitor will be required to pay a basic fee of US$556,5091 plus US$5,5631 for each point that competitor gained in the 2019 World Championship for Constructors. 
+In both cases the basic fee is due at the time of the application and the remainder by 10 December of the year prior to the year to which this application relates. 
+(^1) Indexed by US CPI (1.9%) 
 ### APPENDIX 8 
 ### AERODYNAMIC TESTING RESTRICTIONS (ATR) 
 The ATR, and the definitions and rules which will apply to aerodynamic testing, are as follows: 
@@ -964,7 +992,8 @@ c) Any aerodynamic test conducted by an F1 car during and at track testing as de
 **1.3** No RWTT may be carried out using a scale model which is greater than 60% of full size. 
 **1.4** No RWTT may be carried out at a wind tunnel air speed exceeding 50m/s measured relative to the scale model referred to in Paragraph 1.3. Furthermore, during restricted wind tunnel testing the magnitude of the average rate of change of the wind tunnel air speed measured relative to the scale model referred to in Paragraph 1.3 must be less than 4.5m/s². The average rate of change of the wind tunnel air speed will be measured with a period of 0.5 seconds during each wind tunnel air speed ramp up and ramp down phase. These phases are defined as the periods when the wind tunnel air speed is varying between 15m/s and 95% of the maximum wind tunnel air speed during a run. 
 **1.5** RWTT may only be carried out in wind tunnels which have been nominated by the competitor to the FIA. Each competitor may nominate only one wind tunnel for use in any one twelve month period and declare it to the FIA in writing. 
-For the avoidance of doubt, any RWTT carried out on behalf of or for the benefit of the competitor by an Associate (as defined in Section 8 of Appendix 6), a contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of the competitor or for its own purposes and subsequently providing the results of its work to a competitor must take place in the wind tunnel nominated by the competitor, with the exception of RWTT performed to collect the data necessary for the correct operation of nonListed Parts supplied by another competitor as defined in Paragraph 3 of Appendix 6 and declared by that competitor. For a new entrant, the nomination must be made no later than 7 days after the date on which it officially becomes a competitor. No re-nominations may be made for at least 12 months. Nominations should include the facility location, unique identification and the scale of model to be used. 
+For the avoidance of doubt, any RWTT carried out on behalf of or for the benefit of the competitor by an Associate (as defined in Section 8 of Appendix 6), a contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of the competitor or for its own purposes and subsequently providing the results of its work to a competitor must take place in the wind tunnel nominated by the competitor, with the 
+ exception of RWTT performed to collect the data necessary for the correct operation of nonListed Parts supplied by another competitor as defined in Paragraph 3 of Appendix 6 and declared by that competitor. For a new entrant, the nomination must be made no later than 7 days after the date on which it officially becomes a competitor. No re-nominations may be made for at least 12 months. Nominations should include the facility location, unique identification and the scale of model to be used. 
 The FIA will consider, at its absolute discretion, earlier or temporary nominations if a wind tunnel already nominated by a team suffers a long term failure or for the purpose of evaluating alternative wind tunnels. If a different facility is to be used or if the existing facility is significantly changed or upgraded then a new declaration must be submitted to the FIA within one month of the change. 
 **1.6** The RWTT fluid must be air at atmospheric pressure. 
 **1.7** During RWTT, a single run will be deemed to commence each time the wind tunnel air speed rises above 5m/s and will end the first time thereafter when the wind tunnel air speed falls below 5m/s. 
@@ -976,7 +1005,6 @@ The FIA will consider, at its absolute discretion, earlier or temporary nominati
 **2.3** RCFDs refer to the solver part of the process (irrespective of the numerical scheme behind the simulation) plus any mesh adaptation included in a solver optimisation loop. Pre-processing, mesh creation and post processing of CFD simulations are non-RCFDs. Only the calculation part of the process, including message passing time during this phase, (iteration time) shall be included in the RCFDS. 
 **2.4** Non-RCFDs can be made for the purpose of optimising CFD methodology, provided they use a rigid car geometry which has been simulated in CFD more than 30 months ago. This car geometry may not be changed, added to, removed from, morphed or modified. 
 Only geometry manipulations (e.g. in CAD clean-up or meshing software) having the sole purpose of reproducing exactly the same geometry previously solved in CFD (to a tolerance of 1.5mm scaled to a 1:1 car) are allowed. This tolerance is introduced only to allow for unintentional and incidental changes in geometry detail caused by the revisions in software and process. For the avoidance of doubt, static changes to car attitude (ride height, roll, yaw and steer) are permitted. Dynamic attitude changes as well as front wing flap angle, rear wing upper most element position or tyre shape changes are not permitted. Modifications to surface and volume mesh resolution and type as well as the extent of the far field domain are allowed. 
-**2.5** The FIA may permit, at its absolute discretion, non-RCFDs to be made for the sole purpose of contributing toward the development of the 2021 regulations, subject to the following conditions : a) Such opportunities will be offered to all the teams on an equitable and transparent basis. b) Such work will be optional for each team. c) The full list of simulations (geometries, options, flow conditions, etc.) must be approved by the FIA in advance of any work being carried out. d) Full reports of the results, and any CAD geometries must be made available to the FIA and to the other teams, provided no team-specific Intellectual Property is shared. 
 **2.5** For each aerodynamic reporting period defined in the Appendix to the F1 Sporting Regulations, for each nominated computer/cluster, each competitor must use either ‘Option A’ in Paragraph 2.6 or ‘Option B’ in Paragraph 2.7 for declaring RCFDs. 
 **2.6 RCFD simulations Option A :** 
 **2.6.1** RCFD simulations declared using Option A may only be carried out using hardware that has been nominated by the competitor to the FIA. Each competitor must declare to the FIA in writing the computer resource that is employed for the purpose of RCFD simulations. 
@@ -993,8 +1021,8 @@ CCF = Peak Processing Unit clock frequency in GigaHertz achieved during the CFD 
 a) The standard clock frequency value from the Processing Unit Manufacturer’s specification sheet (if overclocking or enhanced modes are not used in the run). 
 b) The maximum “turbo”, “HPC” or other enhanced mode frequency value. 
 c) The maximum overclocked frequency value. 
-NCU = Number of Processing Unit cores allocated for the run. 
-NSS = Number of solver wall clock seconds elapsed during the run. NB Message passing time during calculation must be included. All information required for auditing should be present in the output from the run including the CCF value. 
+NCU = Number of Processing Unit cores used for the run. 
+NSS = Number of solver wall clock seconds elapsed during the run. Message passing time during calculation must be included. All information required for auditing should be present in the output from the run including the CCF value. 
 **2.6.3** An Allocation Unit hour is equivalent to a core hour on a physical CPU core. Floating, fixed point and integer operations from RCFD simulations must only run on and may not be offloaded from the CPU cores. 
 **2.6.4** Each RCFD job must be wholly run on a set of homogeneous processing units. 
 **2.7 RCFD simulations Option B :** 
@@ -1008,7 +1036,7 @@ e) Further to Paragraph 2.7.1(c), in the case of a processing unit without a dou
 f) Processor speed at which the processing unit is configured to run at 100% CPU load. CCF referred to in Paragraph 2.7.2. 
 g) Details of any off load engines used within the cluster as referred to in Paragraph 2.7.2. 
 h) Maximum TeraFLOPs (FLOP = double precision floating point operation) the system can use. This may exclude any AVX floating point operations if declared under Paragraph 2.7.1(d) or include natural precision operations under Paragraph 2.7.1(e). 
-For the avoidance of doubt, any RCFD carried out on behalf of or for the benefit of the competitor by an Associate (as defined in Section 8 of Appendix 6), a contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of the competitor or for its own purposes and subsequently providing the results of its work to a competitor must be carried out using the hardware nominated by the competitor, with the exception of RCFD performed to collect the data necessary for the correct operation of nonListed Parts supplied by another competitor as defined in Paragraph 3 of Appendix 6 and declared by that competitor. 
+For the avoidance of doubt, any RCFD carried out on behalf of or for the benefit of the competitor by an Associate (as defined in Section 8 of Appendix 6), a contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of the competitor or for its own purposes and subsequently providing the results of its work to a competitor must be carried out using the hardware nominated by the competitor, with the exception of RCFDs performed to collect the data necessary for the correct operation of nonListed Parts supplied by another competitor as defined in Paragraph 3 of Appendix 6 and declared by that competitor. 
 If the hardware is changed then an updated declaration must be submitted to the FIA within one month of the change or at the time of submission of a testing period report whichever is earlier. Such changes might include removal of processing units or change of location of any part of the hardware. 
 **2.7.2** The calculation used for the declaration of the eight week Aerodynamic Testing Period (ATP) shall be carried out as below. 
 TotFLOPs = (MFPPC * CCF * NCU * NSS ) / (604,800 * 8 * 1000) 
@@ -1024,13 +1052,14 @@ NSS = Number of solver wall clock seconds elapsed during the run. The message pa
 All information required for auditing should be present in the output from the run including the CCF value. 
 For the avoidance of doubt, any offload processing for example FPU, FPGA, GPU/GPGPU, VFP, softfp etc. should be included and calculated using the same method as above. 
 **2.8** Availability of Hardware 
-Any hardware in use after 1 January 2018 must be available on a non-exclusive basis to all competitors. 
+Any hardware must be available on a non-exclusive basis to all competitors. 
 **3. Combined RWTT and RCFDs Restriction** 
 **3.1** The usage limits for RWTT and RCFDs are expressed in terms of Wind On Time, number of runs, tunnel occupancy, CFD AUh usage and CFD TeraFLOPs usage during an ATP. 
 **3.2** An ATP is an eight week period used for evaluation of these restrictions. As soon as one ATP finishes, a new one begins. 
 **3.3** Wind On Time is defined as the amount of time (in hours) per week, averaged over the ATP, where the wind tunnel air speed exceeds 15m/s for RWTT. For the avoidance of doubt any RWTT performed for the competitor by any Associate of the competitor (as defined in Section 8 of Appendix 6) and/or by any contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of the competitor or for its own purposes and subsequently providing the results of its work to the competitor during an ATP must be included in this calculation as if the tests were performed by the competitor. 
 **3.4** CFD MAUh Usage is defined as the sum of the number of Mega Allocation Unit hours used for the purpose of making RCFD simulations during the ATP. CFD TeraFLOP usage is defined as the average number of TeraFLOPs of computing power used for the purpose of making RCFDs during the ATP. For the avoidance of doubt, computer resource used for RCFDs that fail or are aborted by the user must still be included in the CFD MAUh or CFD TeraFLOP usage calculation. 
-For the further avoidance of doubt any RCFDs performed for the competitor by any Associate of the competitor (as defined in Section 8 of Appendix 6) and/or by any contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of the competitor or for its own purposes and subsequently providing the results of its work to the competitor during an ATP must be included in this calculation as if the simulations were performed by the competitor. 
+For the further avoidance of doubt any RCFDs performed for the competitor by any Associate of the competitor (as defined in Section 8 of Appendix 6) and/or by any contracted party of the competitor or of any Associate of the competitor or any external entity working on behalf of 
+ the competitor or for its own purposes and subsequently providing the results of its work to the competitor during an ATP must be included in this calculation as if the simulations were performed by the competitor. 
 **3.5** Each competitor must limit RWTT and RCFDs so that at the end of each ATP it can be demonstrated that the competitor has operated according to the Limit Line. 
 **3.6** The Limit Line is defined as follows : 
  WT <= WT_limit (1 – CFDA/CFDA_limit – CFDB/CFDB_limit) Where: WT = Wind On Time WT_limit = 25 hours And for RCFD Simulations Option A : CFDA = CFD MAUh Usage CFDA_limit = 10 MAUh And for RCFD Simulations Option B : CFDB = CFD TeraFLOP usage CFDB_limit = 25 TeraFLOPs 
@@ -1042,7 +1071,8 @@ For the further avoidance of doubt any RCFDs performed for the competitor by any
 **3.10** Any data acquired during RWTT and RCFD may only be available to the competitor that is assigned the Wind On Time or CFD MAUh and/or TeraFLOPs used to acquire it, with the exception of the data necessary for the correct operation of non-Listed Parts supplied to another competitor as defined in Paragraph 3 of Appendix 6. 
 **4. Reporting and Benchmarking** 
 **4.1** Each competitor shall report to the FIA details of its RWTT and RCFDs for the preceding ATP within 14 days of the end of that ATP. The data must be provided in the exact format specified by the FIA, details of which may be found in the Appendix to the F1 Sporting Regulations. 
-**4.2** Digital wind tunnel image files in colour and with sufficient unobstructed field of view of the wind tunnel working section to include the entire model must be recorded, referenced to other data collected and a copy saved including a unique time stamp to at least one second accuracy for the start of each individual run. Should the FIA wish to access the images for inspection at any time they must be of adequate quality such that it is possible to use them to verify, for example, whether the front wing group (described in Article 3.3.1 of the F1 Technical Regulations) and rear wing group (described in Article 3.6.3 of the F1 Technical Regulations) are fitted. In the case of other runs deemed to be non-RCFDs in the context of this Appendix, for example using an aerodynamic configuration greater than 12 months old, the images must also provide a clear visual reference to assist in verifying this aspect of the model. 
+**4.2** Digital wind tunnel image files in colour and with sufficient unobstructed field of view of the wind tunnel working section to include the entire model must be recorded, referenced to 
+ other data collected and a copy saved including a unique time stamp to at least one second accuracy for the start of each individual run. Should the FIA wish to access the images for inspection at any time they must be of adequate quality such that it is possible to use them to verify, for example, whether the front wing group (described in Article 3.3 of the F1 Technical Regulations) and rear wing group (described in Article 3.6.3 of the F1 Technical Regulations) are fitted. In the case of other runs deemed to be non-RWTT in the context of this Appendix, for example using an aerodynamic configuration greater than 12 months old, the images must also provide a clear visual reference to assist in verifying this aspect of the model. 
 **4.3** In order to check on the hardware employed by the competitors and as a means of assuring common application of the restrictions set out in this Appendix, the FIA will arrange for independent benchmarking inspections of both wind tunnel and CFD activities to be carried out from time to time. Recommendations arising from these inspections will be incorporated into this Appendix. 
 **4.4** a) The aerodynamic reporting periods may be found in the Appendix to the F1 Sporting Regulations. 
 b) If an Aerodynamic Reporting Period occupies more than 8 calendar weeks in order to span the factory shutdown, Wind-on time, TeraFLOPs, occupancy and runs will be averaged over this reporting period, or any other period which duration may not be 8 weeks, by summing the total activity in the period and then averaging over the effective duration of the ATP exactly as for a normal reporting period. 
@@ -1051,12 +1081,13 @@ c) For a new entrant, the reporting will start as soon as it officially becomes 
 **5.1** Free testing is permitted (and therefore not within the definition of RWTT) for development of suspension and steering systems (Article 10 of the F1 Technical Regulations), brake systems (Article 11 of the F1 Technical Regulations), wheels and tyres (Article 12 of the F1 Technical Regulations) and for development and calibration of pressure sensing instrumentation (such as pitot tubes, multi-directional probes, Kiel tubes etc.), provided such tests do not concurrently test (or in any way provide incidental data or knowledge on) the performance or endurance of parts or systems classified as bodywork. 
 During audit competitors may be requested to demonstrate compliance of any such testing through the production of supporting data. 
 **5.2** Steady state and dynamic engine dynamometer work with an F1 car or subcomponent may be performed (and therefore not within the definition of RWTT) provided that : 
-a) The bodywork used in the test has no front wing assembly (described in Article 3.3.1 of the F1 Technical Regulations) or rear wing assembly (described in Article 3.6.3 of the F1 Technical Regulations) present. 
+a) The bodywork used in the test has no front wing assembly (described in Article 3.3 of the F1 Technical Regulations) or rear wing assembly (described in Article 3.6.3 of the F1 Technical Regulations) present. 
 b) No devices designed to measure directly or indirectly aerodynamic forces or flow field characteristics are installed in the facility used. 
 c) No sensor installed on the car or subcomponent which are capable of measuring displacements, pressures or air flow direction of the external airstream resulting directly or indirectly from the incident air flow may be logged. Logging files have to be available, if required, during the independent benchmarking inspection. 
 d) The gas flow exiting from the exhaust system is ducted away from the testing area before impacting on any bodywork component (other than the exhaust itself). 
-**5.3** Wind tunnel testing for the sole purpose of the conditioning of wind tunnel infrastructure or the development of wind tunnel infrastructure (including all of its sub-systems such as rolling road, model motion system, force balance, wind tunnel model spine, sensors etc.) and methodology may be performed (and therefore not within the definition of RWTT) subject to complying with either of the following restrictions : 
-a) The front wing group (described in Article 3.3.1 of the F1 Technical Regulations) and the rear wing group (described in Article 3.6.3 of the F1 Technical Regulations) must be removed from the wind tunnel for the duration of the testing. 
+**5.3** Wind tunnel testing for the sole purpose of the conditioning of wind tunnel infrastructure or the development of wind tunnel infrastructure (including all of its sub-systems such as rolling 
+ road, model motion system, force balance, wind tunnel model spine, sensors etc.) and methodology may be performed (and therefore not within the definition of RWTT) subject to complying with either of the following restrictions : 
+a) The front wing group (described in Article 3.3 of the F1 Technical Regulations) and the rear wing group (described in Article 3.6.3 of the F1 Technical Regulations) must be removed from the wind tunnel for the duration of the testing. 
 b) A model of fixed aerodynamic configuration is used which is more than 12 months old, and that no modification is made to the previously tested geometry. 
 **6. Bodywork Items that may be adjusted during a RWTT run** 
 **6.1** The following degrees of freedom are permitted during the course of a RWTT run : 
@@ -1064,7 +1095,7 @@ a) The flap angle of the front wing may be adjusted.
 b) The incidence of the rear most and uppermost element of the top rear wing may be adjusted. 
 **6.2** For the avoidance of doubt, during RWTT, changes to the state of the model that reflect conditions encountered on the full size car while driving on the track (for example ride height, roll, steer, yaw, exhaust flow) are permitted. 
 **7. Movement of personnel** 
-**7.1** No competitor may use movement of personnel involved in the development, design or testing of aerodynamic surfaces (whether employee, consultant, contractor, secondee or any other type of permanent or temporary personnel) with another competitor, either directly or via an external entity, for the purpose of circumventing the requirements of this Appendix. In order that the FIA may be satisfied that any such movement of staff is compliant with this Appendix, each competitor must inform the FIA of all relevant staff movements at the end of each ATP using the template which may be found in the Appendix to these Regulation and must demonstrate that they have implemented all reasonable measures to avoid the disclosure of information, data or design between the involved competitors. 
+**7.1** No competitor may use movement of personnel involved in the development, design or testing of aerodynamic surfaces (whether employee, consultant, contractor, secondee or any other type of permanent or temporary personnel) with another competitor, either directly or via an external entity, for the purpose of circumventing the requirements of this Appendix. In order that the FIA may be satisfied that any such movement of staff is compliant with this Appendix, each competitor must inform the FIA of all relevant staff movements at the end of each ATP using the template which may be found in the Appendix to the Sporting Regulations and must demonstrate that they have implemented all reasonable measures to avoid the disclosure of information, data or design between the involved competitors. 
 ### APPENDIX 9 
 ### SUPPLY OF POWER UNITS FOR THE 2018-2020 CHAMPIONSHIP SEASONS 
 **Preamble :** The FIA and the Commercial Rights Holder remain entitled to decide jointly that this Appendix being withdrawn at any time if the number of Power Unit Manufacturers supplying power units in a Championship season is less than 3 (three). 
